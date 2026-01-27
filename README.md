@@ -31,9 +31,9 @@ DSESM/
 │       ├── eligibility/   # Geographic eligibility data
 │       ├── load/          # Demand profiles
 │       └── regions/       # Regional boundaries
-├── scripts/               # Python scripts for data processing and modeling
-├── notebooks/             # Jupyter notebooks for analysis and visualization
-├── docs/                  # Documentation and reports
+├── scripts/               # Python scripts for data processing and modeling (placeholder tracked)
+├── notebooks/             # Jupyter notebooks for analysis and visualization (placeholder tracked)
+├── docs/                  # Documentation and reports (placeholder tracked)
 ├── environment.yml        # Conda environment specification
 ├── .gitignore            # Git ignore rules
 └── README.md             # This file
