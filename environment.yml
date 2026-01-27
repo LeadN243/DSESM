@@ -1,0 +1,68 @@
+name: dsesm
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Core Python
+  - python=3.10
+  
+  # Energy System Modeling
+  - pypsa>=0.26.0
+  - atlite>=0.2.12
+  - powerplantmatching>=0.5.0
+  
+  # Data Processing
+  - pandas>=2.0.0
+  - numpy>=1.24.0
+  - xarray>=2023.1.0
+  - netcdf4>=1.6.0
+  - scipy>=1.10.0
+  
+  # Geospatial Analysis
+  - geopandas>=0.14.0
+  - shapely>=2.0.0
+  - cartopy>=0.22.0
+  - rasterio>=1.3.0
+  - pyproj>=3.5.0
+  
+  # Optimization
+  - highspy>=1.5.0
+  - gurobipy  # Optional: requires license
+  
+  # Visualization
+  - matplotlib>=3.7.0
+  - seaborn>=0.12.0
+  - plotly>=5.14.0
+  
+  # Climate and Weather Data
+  - cdsapi>=0.6.0
+  - cfgrib>=0.9.0
+  - eccodes>=1.5.0
+  
+  # Network Analysis
+  - networkx>=3.0
+  
+  # Jupyter and Development
+  - jupyter>=1.0.0
+  - jupyterlab>=4.0.0
+  - ipykernel>=6.22.0
+  - ipywidgets>=8.0.0
+  
+  # Data Download and APIs
+  - requests>=2.31.0
+  - tqdm>=4.65.0
+  
+  # Testing and Code Quality (optional)
+  - pytest>=7.3.0
+  - black>=23.3.0
+  - flake8>=6.0.0
+  
+  # Utilities
+  - pyyaml>=6.0
+  - dask>=2023.4.0
+  - bottleneck>=1.3.7
+  
+  # Pip packages (if needed)
+  - pip>=23.0
+  - pip:
+    - country-converter>=1.0.0
