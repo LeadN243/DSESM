@@ -1,0 +1,23 @@
+# Conda / Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.ipynb_checkpoints/
+
+# Conda environments
+.conda/
+.envs/
+.env*/
+
+# Data (keep raw data OUT of Git)
+data/raw/
+
+# Atlite cache
+.cutouts/
+atlite_cutouts/
+
+# OS
+.DS_Store
+Thumbs.db
