@@ -88,6 +88,13 @@ jupyter notebook groupQasssignment.ipynb
 - **Geographic data**: Natural Earth, OpenStreetMap
 - **Hydro resources**: National reservoir and hydropower data
 
+## 📦 Data Setup & Sharing
+
+- Raw data is not included in the repo by default (see `.gitignore`). Place raw inputs in `data/raw/` locally.
+- If you want data tracked on GitHub, remove the `data/raw/` ignore rule or force-add specific processed files (e.g., `git add -f data/processed/...`).
+- Keep the `data/processed/` structure (`eligibility/`, `load/`, `regions/`) for cleaned outputs; commit only lightweight processed files needed to reproduce results.
+- When sharing with collaborators, provide either the data files or a download link plus expected filenames/structure.
+
 ## 🔧 Methodology
 
 1. **Data Collection**: Download and preprocess weather, load, and infrastructure data
