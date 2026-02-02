@@ -11,8 +11,8 @@ __pycache__/
 .envs/
 .env*/
 
-# Data (keep raw data OUT of Git)
-data/raw/
+# Data - INCLUDED for submission
+# data/raw/  # Commented out to include all data
 
 # Atlite cache
 .cutouts/
