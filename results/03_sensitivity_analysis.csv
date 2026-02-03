@@ -1,0 +1,6 @@
+Sensitivity ID,Label,Potential Factor,Status,Total Cost (€),Total Generation (TWh),CO2 Emissions (Mt),Renewable Share (%),Storage Discharge (TWh)
+renew_100,100% Potential,1.0,optimal,9629834094.46732,57.51589422077817,0.0,79.55734554700351,9.743789607750559
+renew_75,75% Potential,0.75,failed,,,,,
+renew_50,50% Potential,0.5,failed,,,,,
+renew_25,25% Potential,0.25,failed,,,,,
+renew_0,0% Potential (No Renewables),0.0,infeasible,,,,,

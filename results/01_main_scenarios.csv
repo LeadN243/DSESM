@@ -1,0 +1,3 @@
+Scenario ID,Scenario Name,Status,Solver,Total Cost (€),Total Generation (TWh),Total Demand (TWh),CO2 Emissions (Mt)
+baseline,Baseline (No CO2 Limit),optimal,gurobi,3780024457.2123322,53.032323771072804,51.396488299999994,3.209305548681366
+zero_emission,Zero Emissions (100% CO2 Reduction),optimal,gurobi,9629834094.46732,57.51589422077817,51.396488299999994,0.0

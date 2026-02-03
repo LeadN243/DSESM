@@ -1,0 +1,6 @@
+Scenario,Technology,Generation (MWh),Generation (TWh)
+zero_emission,Solar PV,20909311.16483318,20.90931116483318
+zero_emission,Wind Offshore,18661772.61917427,18.661772619174272
+zero_emission,Hydro,11757775.511104673,11.757775511104674
+zero_emission,Wind Onshore,6187034.925666039,6.187034925666039
+zero_emission,Natural Gas,0.0,0.0
