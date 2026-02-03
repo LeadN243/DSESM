@@ -1,0 +1,405 @@
+Name,Fueltype,Technology,Set,Country,Capacity,Efficiency,DateIn,DateRetrofit,DateOut,lat,lon,Duration,Volume_Mm3,DamHeight_m,StorageCapacity_MWh,EIC,projectID
+Salamonde,Hydro,Pumped Storage,Store,Portugal,220.0,,1953.0,,,41.6919,-8.0919,32.55411255411256,56.3,75.0,7520.0,{},"{'GEM': {'G100000603241'}, 'JRC': {'JRC-H219'}, 'EESI': {'EESI-62489'}, 'ENTSOE': {'16WSALAM2------Z'}, 'GHR': {'GHR-GHR05185', 'GHR-GHR05186'}, 'GPD': {'WRI1022566'}, 'GEO': {'GEO-43544'}}"
+Alto Lindoso,Hydro,Reservoir,Store,Portugal,630.0,,1922.0,,,41.8721,-8.2029,356.5079365079365,348.0,110.0,224600.0,{},"{'GEM': {'G100000603223'}, 'JRC': {'JRC-H42'}, 'ENTSOE': {'16WALINDO------J'}, 'GHR': {'GHR-GHR05158', 'GHR-GHR05117'}, 'GPD': {'WRI1022576'}, 'GEO': {'GEO-43535'}}"
+Alto Rabagao,Hydro,Pumped Storage,Store,Portugal,68.0,,1964.0,,,41.738,-7.8534,120.0,568.6999999999999,94.0,8160.0,{},"{'GEM': {'G100001027395'}, 'JRC': {'JRC-H675'}, 'EESI': {'EESI-61707'}, 'GHR': {'GHR-GHR05118'}, 'GPD': {'WRI1022561'}, 'GEO': {'GEO-43547'}}"
+Venda Nova,Hydro,Pumped Storage,Store,Portugal,1061.0,,1951.0,,,41.68856666666667,-8.012733333333335,1391.111111111111,92.1,97.0,125200.0,{},"{'GEM': {'G100000603244', 'G100000603246', 'G100000603245'}, 'JRC': {'JRC-H558'}, 'EESI': {'EESI-64296'}, 'GHR': {'GHR-GHR05202', 'GHR-GHR05203'}, 'GPD': {'WRI1022560'}, 'GEO': {'GEO-43565'}}"
+Aguieira,Hydro,Pumped Storage,Store,Portugal,336.0,,1970.0,,,40.3406,-8.1967,116.66666666666669,304.0,71.6,39200.0,{},"{'GEM': {'G100000603220'}, 'JRC': {'JRC-H122'}, 'EESI': {'EESI-64712'}, 'ENTSOE': {'16WAGUIE-------3'}, 'GHR': {'GHR-GHR05115'}, 'GEO': {'GEO-43566'}}"
+Alqueva,Hydro,Pumped Storage,Store,Portugal,515.0,,1970.0,,,38.1957,-7.4969,11.284046692607005,4150.0,96.0,5800.0,{},"{'GEM': {'G100000603222', 'G100000603221'}, 'JRC': {'JRC-H52'}, 'EESI': {'EESI-61720', 'EESI-61901'}, 'ENTSOE': {'16WALQUE-------F'}, 'GHR': {'GHR-GHR05116'}, 'GEO': {'GEO-43534'}}"
+Torrao,Hydro,Pumped Storage,Store,Portugal,140.0,,1970.0,,,41.0969,-8.2611,7.0,124.0,69.0,980.0,{},"{'GEM': {'G100000603242'}, 'JRC': {'JRC-H358'}, 'EESI': {'EESI-63377'}, 'ENTSOE': {'16WTORRAO------V'}, 'GHR': {'GHR-GHR05196'}, 'GEO': {'GEO-43573'}}"
+Vilarinho Das Furnas,Hydro,Pumped Storage,Store,Portugal,125.0,,1970.0,,,41.7633,-8.2097,1103.2,69.7,94.0,137900.0,{},"{'GEM': {'G100000603248'}, 'JRC': {'JRC-H410'}, 'EESI': {'EESI-61516'}, 'ENTSOE': {'16WVFURNA------1'}, 'GHR': {'GHR-GHR05206'}, 'GEO': {'GEO-43548'}}"
+Canicada,Hydro,Reservoir,Store,Portugal,62.0,,1954.0,,,41.6529,-8.2309,516.1290322580645,144.4,76.0,32000.0,{},"{'GEM': {'G100001027396'}, 'JRC': {'JRC-H714'}, 'GHR': {'GHR-GHR05134'}, 'GPD': {'WRI1022562'}, 'GEO': {'GEO-43545'}}"
+Paradela,Hydro,Reservoir,Store,Portugal,54.0,,1956.0,,,41.7688,-7.9501,4120.37037037037,158.2,110.0,222500.0,{},"{'GEM': {'G100001027397'}, 'JRC': {'JRC-H800'}, 'GHR': {'GHR-GHR05166'}, 'GPD': {'WRI1022564'}, 'GEO': {'GEO-43546'}}"
+Vilar Tabuaco,Hydro,Reservoir,Store,Portugal,58.0,,1965.0,,,40.9869,-7.5358,1993.103448275862,95.3,55.0,115600.0,{},"{'GEM': {'G100001027399'}, 'JRC': {'JRC-H756'}, 'GHR': {'GHR-GHR05205'}, 'GPD': {'WRI1022563'}, 'GEO': {'GEO-43574'}}"
+Valeira,Hydro,Run-Of-River,PP,Portugal,240.0,,1970.0,,,41.1603,-7.375,,97.0,48.0,,{},"{'GEM': {'G100000603243'}, 'JRC': {'JRC-H185'}, 'ENTSOE': {'16WVALEIRA-----B'}, 'GHR': {'GHR-GHR05199'}, 'GEO': {'GEO-43540'}}"
+Bemposta,Hydro,Run-Of-River,Store,Portugal,443.0,,1964.0,2010.0,,41.3009,-6.46975,5.336426914153132,20.0,87.0,2300.0,{},"{'GEM': {'G100000603227', 'G100000603228'}, 'JRC': {'JRC-H79'}, 'ENTSOE': {'16WBEMPOS------6', '16WBEMPOII-----R'}, 'GHR': {'GHR-GHR05125'}, 'GEO': {'GEO-43539'}}"
+Cabril,Hydro,Reservoir,Store,Portugal,108.0,,1954.0,,,39.9178,-8.1328,3141.6666666666665,615.0,132.0,339300.0,{},"{'GEM': {'G100000603229'}, 'JRC': {'JRC-H475'}, 'ENTSOE': {'16WCABRIL------U'}, 'GHR': {'GHR-GHR05130'}, 'GEO': {'GEO-43549'}}"
+Carrapatelo,Hydro,Run-Of-River,PP,Portugal,201.0,,1970.0,,,41.0856,-8.1308,,148.4,57.0,,{},"{'GEM': {'G100000603230'}, 'JRC': {'JRC-H240'}, 'ENTSOE': {'16WCARRAPA-----2'}, 'GHR': {'GHR-GHR05135'}, 'GEO': {'GEO-43542'}}"
+Castelo De Bode,Hydro,Reservoir,Store,Portugal,159.0,,1951.0,,,39.5428,-8.3186,1003.1446540880504,902.5,115.0,159500.0,{},"{'GEM': {'G100000603231'}, 'JRC': {'JRC-H310'}, 'ENTSOE': {'16WCBODE-------5'}, 'GHR': {'GHR-GHR05137'}, 'GEO': {'GEO-43550'}}"
+Crestuma Lever,Hydro,Run-Of-River,PP,Portugal,117.0,,1970.0,,,41.0728,-8.4867,,110.0,60.0,,{},"{'GEM': {'G100000603232'}, 'JRC': {'JRC-H437'}, 'ENTSOE': {'16WCRESTUM-----6'}, 'GHR': {'GHR-GHR05142'}, 'GEO': {'GEO-43543'}}"
+Fratel,Hydro,Run-Of-River,PP,Portugal,132.0,,1970.0,,,39.5433,-7.8025,,92.5,43.0,,{},"{'GEM': {'G100000603235'}, 'JRC': {'JRC-H386'}, 'ENTSOE': {'16W-FRATEL-----A'}, 'GHR': {'GHR-GHR05152'}, 'GEO': {'GEO-43572'}}"
+Miranda,Hydro,Run-Of-River,PP,Portugal,369.0,,1960.0,1994.0,,41.48935,-6.2639,,28.0,60.0,,{},"{'GEM': {'G100000603238', 'G100000603237'}, 'JRC': {'JRC-H104'}, 'ENTSOE': {'16WMIRANII-----E', '16W-MIRANDA----I'}, 'GHR': {'GHR-GHR05161'}, 'GEO': {'GEO-43537'}}"
+Picote,Hydro,Run-Of-River,Store,Portugal,440.0,,1958.0,2010.0,,41.3783,-6.3516,,13.43,74.0,,{},"{'GEM': {'G100000604135', 'G100000604136'}, 'JRC': {'JRC-H76'}, 'ENTSOE': {'16WPICOTE------0', '16WPICOTII-----K'}, 'GHR': {'GHR-GHR05172'}, 'GEO': {'GEO-43538'}}"
+Pocinho,Hydro,Run-Of-River,PP,Portugal,186.0,,1970.0,,,41.135,-7.1142,,83.1,49.0,,{},"{'GEM': {'G100000603239'}, 'JRC': {'JRC-H263'}, 'ENTSOE': {'16WPOCINHO-----S'}, 'GHR': {'GHR-GHR05174'}, 'GEO': {'GEO-43536'}}"
+Regua,Hydro,Run-Of-River,PP,Portugal,180.0,,1970.0,,,41.1461,-7.7397,,95.0,41.0,,{},"{'GEM': {'G100000603240'}, 'JRC': {'JRC-H271'}, 'ENTSOE': {'16WREGUA-------O'}, 'GHR': {'GHR-GHR05180'}, 'GEO': {'GEO-43541'}}"
+Baixo Sabor Montante,Hydro,Pumped Storage,Store,Portugal,153.0,,1970.0,,,41.2279,-7.0146,17.98941798941799,630.0,123.0,3400.0,{},"{'GEM': {'G100000603225'}, 'JRC': {'JRC-H286'}, 'EESI': {'EESI-64357'}, 'ENTSOE': {'16WBASBM-------8'}, 'GHR': {'GHR-GHR05122'}}"
+Foz Tua,Hydro,Pumped Storage,Store,Portugal,268.0,,1970.0,,,41.2188,-7.4229,,106.0,107.0,2630.0,{},"{'GEM': {'G100000603234'}, 'JRC': {'JRC-H3329'}, 'EESI': {'EESI-63182'}, 'ENTSOE': {'16WFOZT--------Y'}, 'GHR': {'GHR-GHR05150'}}"
+Touvedo,Hydro,Reservoir,Store,Portugal,22.0,,1970.0,,,41.8124,-8.354,9.090909090909092,4.5,42.0,200.0,{},"{'JRC': {'JRC-H1332'}, 'GHR': {'GHR-GHR05197'}, 'GPD': {'WRI1022573'}, 'GEO': {'GEO-43571'}}"
+Raiva,Hydro,Reservoir,Store,Portugal,24.0,,1970.0,,,40.3095,-8.2488,,12.0,34.0,,{},"{'JRC': {'JRC-H1299'}, 'GHR': {'GHR-GHR05178'}, 'GPD': {'WRI1022571'}, 'GEO': {'GEO-43578'}}"
+Pracana,Hydro,Reservoir,Store,Portugal,41.0,,1950.0,,,39.5649,-7.8123,239.02439024390245,95.6,60.0,9800.0,{},"{'JRC': {'JRC-H955'}, 'GHR': {'GHR-GHR05177'}, 'GPD': {'WRI1022567'}, 'GEO': {'GEO-43576'}}"
+Caldeirao,Hydro,Reservoir,Store,Portugal,40.0,,1970.0,,,40.5316,-7.3297,37.5,3.5,39.0,1500.0,{},"{'JRC': {'JRC-H968'}, 'GHR': {'GHR-GHR05131'}, 'GPD': {'WRI1022568'}, 'GEO': {'GEO-43577'}}"
+Bouca,Hydro,Reservoir,Store,Portugal,44.0,,1955.0,,,39.854,-8.2197,,7.9,63.0,,{},"{'JRC': {'JRC-H916'}, 'GHR': {'GHR-GHR05127'}, 'GPD': {'WRI1022565'}, 'GEO': {'GEO-43575'}}"
+Ribeiradio,Hydro,Reservoir,Store,Portugal,74.0,,1970.0,,,40.7422,-8.3194,,88.3,74.0,,{},"{'GEM': {'G100001027398'}, 'JRC': {'JRC-H3330'}, 'GHR': {'GHR-GHR05182', 'GHR-GHR05146'}, 'GPD': {'WRI1022575', 'WRI1022704'}}"
+Belver,Hydro,Reservoir,PP,Portugal,81.0,,1951.0,,,39.4812,-7.9983,,19.0,30.0,,{},"{'GEM': {'G100000603226'}, 'JRC': {'JRC-H611'}, 'GHR': {'GHR-GHR05124'}, 'GPD': {'WRI1022574'}}"
+Frades,Hydro,Pumped Storage,Store,Portugal,976.0,,1970.0,,,41.6929435,-8.027884,24.098360655737704,92.1,420.0,23520.0,{},"{'JRC': {'JRC-H32', 'JRC-H250'}, 'EESI': {'EESI-63697'}, 'ENTSOE': {'16WFRADES------T', '16WFRADE2------F'}, 'GHR': {'GHR-GHR05151'}}"
+Daivoes,Hydro,Reservoir,Store,Portugal,118.0,,2022.0,,,41.5239,-7.8651,,56.2,77.5,,{},"{'GEM': {'G100000604331'}, 'JRC': {'JRC-H3679'}, 'ENTSOE': {'16WDVOES-------N'}}"
+Gouvaes,Hydro,Pumped Storage,Store,Portugal,880.0,,2022.0,,,41.4938,-7.727,,13.7,30.0,,{},"{'GEM': {'G100000603236'}, 'JRC': {'JRC-H3678'}, 'ENTSOE': {'16WGVAES-------R'}}"
+Alto Tamega,Hydro,Reservoir,Store,Portugal,160.0,,2024.0,,,41.5739,-7.7311,,132.0,106.5,,{},"{'GEM': {'G100000603224'}, 'JRC': {'JRC-H3677'}, 'EESI': {'EESI-64432'}}"
+Lares,Natural Gas,CCGT,PP,Portugal,826.0,,2009.0,,,40.1245,-8.775,,,,,{},"{'GEM': {'G100000400588', 'G100000400587'}, 'ENTSOE': {'16WLARES-------R'}, 'GEO': {'GEO-43562'}}"
+Tapada Do Outeiro,Natural Gas,CCGT,PP,Portugal,990.0,,1998.0,,,41.07,-8.4587,,,,,{},"{'GEM': {'G100000400594', 'G100000400593', 'G100000400595'}, 'ENTSOE': {'16WRTG---------V'}, 'GEO': {'GEO-43561'}}"
+Elecgas Pego,Natural Gas,CCGT,PP,Portugal,836.0,0.58,2011.0,,,39.4689,-8.1113,,,,,{},"{'GEM': {'G100000400585', 'G100000400584'}, 'ENTSOE': {'16WPEGO--------O'}, 'GEO': {'GEO-43564'}}"
+Ribatejo,Natural Gas,CCGT,PP,Portugal,1176.0,0.575,2003.0,,,39.0118,-8.9521,,,,,{},"{'GEM': {'G100000400591', 'G100000400590', 'G100000400589'}, 'ENTSOE': {'16WRIBATE------E'}, 'GEO': {'GEO-43559'}}"
+Desterro,Hydro,Run-Of-River,PP,Portugal,13.2,,1959.0,,,40.23,-7.41,,3.28,,,{},"{'JRC': {'JRC-H1613'}, 'GHR': {'GHR-GHR05144', 'GHR-GHR05143'}, 'GPD': {'WRI1022580'}}"
+Ponte De Jugais,Hydro,Run-Of-River,PP,Portugal,20.3,,1923.0,,,40.23,-7.42,,,,,{},"{'JRC': {'JRC-H1373'}, 'GHR': {'GHR-GHR05175'}, 'GPD': {'WRI1022579'}}"
+Sabugueiro,Hydro,Reservoir,Store,Portugal,13.2,,1947.0,,,40.23,-7.39,2315.1515151515155,15.28,28.24,30560.0,{},"{'JRC': {'JRC-H1612'}, 'GHR': {'GHR-GHR05184', 'GHR-GHR05183'}, 'GPD': {'WRI1022787', 'WRI1022581'}}"
+Santa Luzia,Hydro,Reservoir,Store,Portugal,25.9,,1943.0,,,40.5,-7.51,1320.4633204633203,50.5,76.0,34200.0,{},"{'JRC': {'JRC-H1234'}, 'GHR': {'GHR-GHR05187'}, 'GPD': {'WRI1022577'}}"
+Varosa,Hydro,Reservoir,Store,Portugal,25.0,,1934.0,,,41.07,-7.46,,12.9,76.0,,{},"{'JRC': {'JRC-H1272'}, 'GHR': {'GHR-GHR05201'}, 'GPD': {'WRI1022570'}}"
+Vila Cova,Hydro,Run-Of-River,PP,Portugal,23.4,,1970.0,,,40.22,-7.43,,,,,{},"{'JRC': {'JRC-H1309'}, 'GHR': {'GHR-GHR05204'}, 'GPD': {'WRI1022578'}}"
+Senhora De Porto,Hydro,Run-Of-River,PP,Portugal,8.8,,1970.0,,,41.34,-8.11,,0.012,25.0,,{},"{'JRC': {'JRC-H1819'}, 'GHR': {'GHR-GHR05189'}}"
+Aregos,Hydro,,PP,Portugal,3.1,,1958.0,,,41.0939,-8.0278,,,,,{},"{'GHR': {'GHR-GHR05121'}, 'GPD': {'WRI1022668'}}"
+Alvito,Hydro,Reservoir,PP,Portugal,3.4,,1970.0,,,38.2788,-7.9093,,132.5,49.0,,{},"{'GHR': {'GHR-GHR05120'}, 'GPD': {'WRI1022664'}}"
+Alvadia,Hydro,,PP,Portugal,10.0,,1970.0,,,41.4564,-7.8103,,0.005,,,{},"{'GHR': {'GHR-GHR05119'}, 'GPD': {'WRI1022663'}}"
+Freigil,Hydro,,PP,Portugal,4.6,,1970.0,,,41.075,-8.0233,,0.1399999999999999,17.0,,{},"{'GHR': {'GHR-GHR05153'}, 'GPD': {'WRI1022714'}}"
+Feiticeiro Baixo Sabor,Hydro,,PP,Portugal,36.0,,1970.0,,,41.202,-7.0936,,12.0,45.0,,{},"{'GHR': {'GHR-GHR05149'}, 'GPD': {'WRI1022569'}}"
+Faja Da Nogueira,Hydro,,PP,Portugal,2.4,,1970.0,,,32.7432,-16.9069,,,,,{},"{'GHR': {'GHR-GHR05148'}, 'GPD': {'WRI1022708'}}"
+Fagilde,Hydro,Reservoir,PP,Portugal,2.4,,1970.0,,,40.6292,-7.8255,,2.8,27.0,,{},"{'GHR': {'GHR-GHR05147'}, 'GPD': {'WRI1022707'}}"
+Ermal,Hydro,,PP,Portugal,10.0,,1937.0,,,41.5781,-8.1528,,22.0,49.0,,{},"{'GHR': {'GHR-GHR05145'}, 'GPD': {'WRI1022701'}}"
+Covas Do Barroso,Hydro,,PP,Portugal,6.6,,1970.0,,,41.6305,-7.7949,,,,,{},"{'GHR': {'GHR-GHR05141'}, 'GPD': {'WRI1022699'}}"
+Corvete,Hydro,,PP,Portugal,2.4,,1970.0,,,41.3965,-8.1793,,,,,{},"{'GHR': {'GHR-GHR05140'}, 'GPD': {'WRI1022698'}}"
+Cercosa,Hydro,,PP,Portugal,4.2,,1970.0,,,40.6703,-8.2469,,0.06,15.7,,{},"{'GHR': {'GHR-GHR05139'}, 'GPD': {'WRI1022695'}}"
+Catapereiro,Hydro,,PP,Portugal,7.2,,1970.0,,,41.0912,-7.2715,,,37.5,,{},"{'GHR': {'GHR-GHR05138'}, 'GPD': {'WRI1022693'}}"
+Carregal,Hydro,,PP,Portugal,5.5,,1970.0,,,40.8072,-8.2438,,,,,{},"{'GHR': {'GHR-GHR05136'}, 'GPD': {'WRI1022689'}}"
+Canedo,Hydro,,PP,Portugal,10.0,,1970.0,,,41.6204,-7.7394,,,15.0,,{},"{'GHR': {'GHR-GHR05133'}, 'GPD': {'WRI1022686'}}"
+Calheta,Hydro,,PP,Portugal,12.0,,1953.0,,,32.7252,-17.177,,,,,{},"{'GHR': {'GHR-GHR05156', 'GHR-GHR05132'}, 'GPD': {'WRI1022682', 'WRI1022724'}}"
+Bragadas,Hydro,,PP,Portugal,10.1,,1970.0,,,41.5413,-7.7891,,0.0906,,,{},"{'GHR': {'GHR-GHR05129'}, 'GPD': {'WRI1022676'}}"
+Boucoais Sonim,Hydro,,PP,Portugal,9.9,,1970.0,,,41.7277,-7.1954,,,43.0,,{},"{'GHR': {'GHR-GHR05128'}, 'GPD': {'WRI1022675'}}"
+Boavista,Hydro,,PP,Portugal,3.8,,1970.0,,,41.358,-8.4491,,0.0055,,,{},"{'GHR': {'GHR-GHR05126'}, 'GPD': {'WRI1022674'}}"
+Barroca,Hydro,,PP,Portugal,2.0,,1970.0,,,40.1115,-7.7297,,0.078,12.0,,{},"{'GHR': {'GHR-GHR05123'}, 'GPD': {'WRI1022672'}}"
+Ponte Do Bico,Hydro,,PP,Portugal,2.2,,1970.0,,,41.6062,-8.4271,,,,,{},"{'GHR': {'GHR-GHR05176'}, 'GPD': {'WRI1022768'}}"
+Pinhel,Hydro,,PP,Portugal,6.8,,1970.0,,,40.8243,-7.0832,,,,,{},"{'GHR': {'GHR-GHR05173'}, 'GPD': {'WRI1022764'}}"
+Pereira,Hydro,,PP,Portugal,5.2,,1970.0,,,40.9199,-7.9648,,,,,{},"{'GHR': {'GHR-GHR05171'}, 'GPD': {'WRI1022763'}}"
+Penide,Hydro,,PP,Portugal,4.9,,1951.0,,,41.5489,-8.5372,,0.5,21.0,,{},"{'GHR': {'GHR-GHR05170'}, 'GPD': {'WRI1022762'}}"
+Penacova,Hydro,,PP,Portugal,9.6,,1970.0,,,40.2975,-8.2487,,,4.0,,{},"{'GHR': {'GHR-GHR05169'}, 'GPD': {'WRI1022759'}}"
+Pego Do Altar,Hydro,,PP,Portugal,2.0,,1949.0,,,38.418,-8.3919,,94.0,63.0,,{},"{'GHR': {'GHR-GHR05168'}, 'GPD': {'WRI1022757'}}"
+Pedrogao,Hydro,,PP,Portugal,10.0,,1970.0,,,38.1101,-7.6296,,106.0,43.0,,{},"{'GHR': {'GHR-GHR05167'}, 'GPD': {'WRI1022756'}}"
+Ovadas,Hydro,,PP,Portugal,5.6,,1970.0,,,41.0558,-8.2487,,,,,{},"{'GHR': {'GHR-GHR05165'}, 'GPD': {'WRI1022748'}}"
+Odivelas,Hydro,,PP,Portugal,2.5,,1970.0,,,38.1852,-8.1153,,96.0,55.0,,{},"{'GHR': {'GHR-GHR05164'}, 'GPD': {'WRI1022747'}}"
+Nunes,Hydro,,PP,Portugal,8.7,,1970.0,,,41.825,-6.9544,,0.1379999999999999,21.5,,{},"{'GHR': {'GHR-GHR05163'}, 'GPD': {'WRI1022745'}}"
+Montargil,Hydro,Reservoir,PP,Portugal,3.6,,1970.0,,,39.0542,-8.1766,,164.3,48.0,,{},"{'GHR': {'GHR-GHR05162'}, 'GPD': {'WRI1022739'}}"
+Meimoa,Hydro,Reservoir,PP,Portugal,5.7,,1970.0,,,40.2597,-7.1389,,40.9,56.0,,{},"{'GHR': {'GHR-GHR05160'}, 'GPD': {'WRI1022734'}}"
+Maranhao,Hydro,Reservoir,PP,Portugal,6.1,,1958.0,,,39.0152,-7.9756,,205.4,55.0,,{},"{'GHR': {'GHR-GHR05159'}, 'GPD': {'WRI1022733'}}"
+Janeiro De Cima,Hydro,,PP,Portugal,7.9,,1970.0,,,40.0655,-7.8055,,,30.0,,{},"{'GHR': {'GHR-GHR05157'}, 'GPD': {'WRI1022725'}}"
+Idanha Nova,Hydro,,PP,Portugal,2.5,,1970.0,,,39.9447,-7.2011,,77.8,54.0,,{},"{'GHR': {'GHR-GHR05155'}, 'GPD': {'WRI1022723'}}"
+Guilhofrei,Hydro,Reservoir,PP,Portugal,4.0,,1939.0,,,41.5811,-8.1428,,22.0,49.0,,{},"{'GHR': {'GHR-GHR05154'}, 'GPD': {'WRI1022720'}}"
+Vales,Hydro,,PP,Portugal,3.2,,1970.0,,,41.4419,-7.4985,,,,,{},"{'GHR': {'GHR-GHR05200'}, 'GPD': {'WRI1022814'}}"
+Ucanha,Hydro,,PP,Portugal,5.7,,1970.0,,,41.054,-7.7462,,,12.0,,{},"{'GHR': {'GHR-GHR05198'}, 'GPD': {'WRI1022809'}}"
+Torga,Hydro,,PP,Portugal,8.5,,1970.0,,,41.7061,-7.1175,,,,,{},"{'GHR': {'GHR-GHR05195'}, 'GPD': {'WRI1022806'}}"
+Terragido,Hydro,,PP,Portugal,8.5,,1970.0,,,41.2872,-7.7495,,,,,{},"{'GHR': {'GHR-GHR05194'}, 'GPD': {'WRI1022805'}}"
+Talhadas,Hydro,,PP,Portugal,5.2,,1970.0,,,40.647,-8.3177,,,,,{},"{'GHR': {'GHR-GHR05193'}, 'GPD': {'WRI1022801'}}"
+Sordo,Hydro,,PP,Portugal,8.5,,1970.0,,,41.1697,-7.7886,,0.85,36.0,,{},"{'GHR': {'GHR-GHR05191'}, 'GPD': {'WRI1022799'}}"
+Senhora Do Salto,Hydro,,PP,Portugal,3.8,,1970.0,,,41.1274,-8.4324,,,,,{},"{'GHR': {'GHR-GHR05190'}, 'GPD': {'WRI1022795'}}"
+Senhora De Monforte,Hydro,,PP,Portugal,10.0,,1970.0,,,40.8174,-7.0293,,0.0068,20.0,,{},"{'GHR': {'GHR-GHR05188'}, 'GPD': {'WRI1022793'}}"
+Sao Pedro Do Sul,Hydro,,PP,Portugal,9.6,,1970.0,,,40.7604,-8.0438,,,,,{},"{'GHR': {'GHR-GHR05192'}, 'GPD': {'WRI1022792'}}"
+Ribadouro,Hydro,,PP,Portugal,3.1,,1970.0,,,41.0991,-8.0826,,,,,{},"{'GHR': {'GHR-GHR05181'}, 'GPD': {'WRI1022780'}}"
+Rebordelo,Hydro,,PP,Portugal,10.0,,1970.0,,,41.7556,-7.1764,,3.1,35.5,,{},"{'GHR': {'GHR-GHR05179'}, 'GPD': {'WRI1022775'}}"
+Alto Douro Wind Farm,Wind,Onshore,PP,Portugal,245.8,,2010.0,,,41.0696,-7.5769,,,,,{},"{'GEM': {'G100000925332', 'G100000913902', 'G100000925333', 'G100000917909', 'G100000910374', 'G100000925329', 'G100000925336', 'G100000910373', 'G100000916446', 'G100000925337', 'G100000917421', 'G100000915900', 'G100000925334', 'G100000917582'}, 'GPD': {'WRI1023275'}}"
+Alto Dos Forninhos Wind Farm,Wind,Onshore,PP,Portugal,8.2,,2014.0,,,39.2958,-7.3536,,,,,{},"{'GEM': {'G100000925327'}, 'GPD': {'WRI1023274'}}"
+Alto Do Talefe Wind Farm,Wind,Onshore,PP,Portugal,14.0,,2004.0,,,41.6464,-8.0492,,,,,{},"{'GEM': {'G100000912471'}, 'GPD': {'WRI1023273'}}"
+Alto Do Moncao Wind Farm,Wind,Onshore,PP,Portugal,32.0,,2006.0,,,40.5033,-8.2657,,,,,{},"{'GEM': {'G100000916765'}, 'GPD': {'WRI1023271'}}"
+Alto Do Marco Wind Farm,Wind,Onshore,PP,Portugal,22.0,,2011.0,,,41.40735,-7.7958,,,,,{},"{'GEM': {'G100000910538', 'G100000911430'}, 'GPD': {'WRI1023270'}}"
+Alto Do Coto Wind Farm,Wind,Onshore,PP,Portugal,8.2,,2003.0,,,40.6395,-8.6525,,,,,{},"{'GEM': {'G100000925324', 'G100000925448'}, 'GPD': {'WRI1023269'}}"
+Alto Da Folgorosa Wind Farm,Wind,Onshore,PP,Portugal,18.0,,2008.0,,,39.1325,-9.1337,,,,,{},"{'GEM': {'G100000913901'}, 'GPD': {'WRI1023267'}}"
+Alrota Wind Farm,Wind,Onshore,PP,Portugal,5.0,,2008.0,,,38.9345,-9.1475,,,,,{},"{'GEM': {'G100000925320'}, 'GPD': {'WRI1023264'}}"
+Almargem Wind Farm,Wind,Onshore,PP,Portugal,6.0,,2007.0,,,38.8421,-9.2677,,,,,{},"{'GEM': {'G100000925319'}, 'GPD': {'WRI1023263'}}"
+Alagoa De Cima Wind Farm,Wind,Onshore,PP,Portugal,14.0,,2004.0,,,41.8401,-8.4201,,,,,{},"{'GEM': {'G100000912470'}, 'GPD': {'WRI1023261'}}"
+Acor Wind Farm,Wind,Onshore,PP,Portugal,56.0,,2004.0,,,40.19915,-7.79875,,,,,{},"{'GEM': {'G100000917190', 'G100000914448'}, 'GPD': {'WRI1023265'}}"
+Achada Wind Farm,Wind,Onshore,PP,Portugal,6.9,,2005.0,,,39.1089,-9.1932,,,,,{},"{'GEM': {'G100000925316'}, 'GPD': {'WRI1023258'}}"
+Abogalheira Wind Farm,Wind,Onshore,PP,Portugal,3.3,,2006.0,,,41.1983,-8.0347,,,,,{},"{'GEM': {'G100000925315'}, 'GPD': {'WRI1023257'}}"
+Bolores Wind Farm,Wind,Onshore,PP,Portugal,5.2,,2003.0,,,38.86,-9.2265,,,,,{},"{'GEM': {'G100000925355'}, 'GPD': {'WRI1023299'}}"
+Bigorne Wind Farm,Wind,Onshore,PP,Portugal,11.0,,2002.0,,,40.6621,-7.924,,,,,{},"{'GEM': {'G100000925354', 'G100000925477'}, 'GPD': {'WRI1023297'}}"
+Beira Interior Wind Farm,Wind,Onshore,PP,Portugal,56.0,,2014.0,,,40.8122,-7.3521,,,,,{},"{'GEM': {'G100000910401', 'G100000925352', 'G100000914468', 'G100000925351', 'G100000914469'}, 'GPD': {'WRI1023294'}}"
+Barao De Sao Joao Wind Farm,Wind,Onshore,PP,Portugal,61.0,,2009.0,,,37.1342,-8.7983,,,,,{},"{'GEM': {'G100000925350', 'G100000918393'}, 'GPD': {'WRI1023293'}}"
+Baixo Alentejo Mertola Wind Farm,Wind,Onshore,PP,Portugal,44.0,,2013.0,,,37.4937,-7.8562,,,,,{},"{'GEM': {'G100000917906'}, 'GPD': {'WRI1023292'}}"
+Bairro Wind Farm,Wind,Onshore,PP,Portugal,22.0,,2009.0,,,39.5866,-8.5783,,,,,{},"{'GEM': {'G100000915075'}, 'GPD': {'WRI1023291'}}"
+Azinheira Wind Farm,Wind,Onshore,PP,Portugal,14.0,,2007.0,,,41.427,-8.0581,,,,,{},"{'GEM': {'G100000912582'}, 'GPD': {'WRI1023289'}}"
+Avalades Solar,Solar,PV,PP,Portugal,15.8,,2012.0,,,37.161,-8.271,,,,,{},"{'GEM': {'G100001010445'}, 'GPD': {'WRI1022594'}}"
+Arruda Wind Farm,Wind,Onshore,PP,Portugal,20.0,,2006.0,,,38.97045,-9.17135,,,,,{},"{'GEM': {'G100000912833', 'G100000925347'}, 'GPD': {'WRI1023288'}}"
+Arga Wind Farm,Wind,Onshore,PP,Portugal,40.7,,2006.0,,,41.8246,-8.7108,,,,,{},"{'GEM': {'G100000925345', 'G100000917195'}, 'GPD': {'WRI1023287'}}"
+Arcela Wind Farm,Wind,Onshore,PP,Portugal,12.0,,2005.0,,,38.9898,-9.1532,,,,,{},"{'GEM': {'G100000911286'}, 'GPD': {'WRI1023282'}}"
+Arada Montemuro Wind Farm,Wind,Onshore,PP,Portugal,145.3,,2005.0,,,40.96498888888889,-8.030133333333334,,,,,{},"{'GEM': {'G100000918381', 'G100000925339', 'G100000925341', 'G100000925340', 'G100000915067', 'G100000925343', 'G100000911025', 'G100000917006', 'G100000925342'}, 'GPD': {'WRI1023281'}}"
+Amareleja Solar Park,Solar,PV,PP,Portugal,46.0,,2008.0,,,38.1801,-7.2012,,,,,{},"{'GEM': {'G100000806559'}, 'GPD': {'WRI1022593'}}"
+Amaral Wind Farm,Wind,Onshore,PP,Portugal,10.0,,2004.0,,,39.0259,-9.0442,,,,,{},"{'GEM': {'G100000910375'}, 'GPD': {'WRI1023280'}}"
+Alvaiazere Wind Farm,Wind,Onshore,PP,Portugal,21.6,,2010.0,,,39.8289,-8.4128,,,,,{},"{'GEM': {'G100000913903', 'G100000925338'}, 'GPD': {'WRI1023278'}}"
+Carreco Outeiro Wind Farm,Wind,Onshore,PP,Portugal,33.0,,2004.0,,,41.7573,-8.81295,,,,,{},"{'GEM': {'G100000914784', 'G100000911526'}, 'GPD': {'WRI1023321', 'WRI1023320'}}"
+Caramulo Wind Farm,Wind,Onshore,PP,Portugal,114.0,,2006.0,,,40.6198,-8.1508,,,,,{},"{'GEM': {'G100000925367', 'G100000925368', 'G100000919298'}, 'GPD': {'WRI1023318'}}"
+Canical Solar,Solar,PV,PP,Portugal,6.6,,2010.0,,,32.7471,-16.7363,,,,,{},"{'GEM': {'G100001010450'}, 'GPD': {'WRI1022599'}}"
+Canha Solar,Solar,PV,PP,Portugal,6.7,,2013.0,,,38.729,-8.595,,,,,{},"{'GEM': {'G100001010455'}, 'GPD': {'WRI1022598'}}"
+Campo Do Ameixial Solar,Solar,PV,PP,Portugal,5.0,,2016.0,,,38.885,-7.656,,,,,{},"{'GEM': {'G100001010443'}, 'GPD': {'WRI1022597'}}"
+Caldas Wind Farm,Wind,Onshore,PP,Portugal,10.0,,2005.0,,,39.2948,-9.0126,,,,,{},"{'GEM': {'G100000910433'}, 'GPD': {'WRI1023314'}}"
+Cadafaz Wind Farm,Wind,Onshore,PP,Portugal,10.0,,2001.0,,,40.1301,-8.0501,,,,,{},"{'GEM': {'G100000910968'}, 'GPD': {'WRI1023312'}}"
+Cacia Cogeneration,Solid Biomass,,PP,Portugal,35.1,,2005.0,,,40.6873519,-8.5898752,,,,,{},"{'GEM': {'G100001053623', 'G100001053624'}, 'GPD': {'WRI1022503', 'WRI1022515'}}"
+Cabril Wind Farm,Wind,Onshore,PP,Portugal,20.2,,2002.0,,,40.9832,-8.0449,,,,,{},"{'GEM': {'G100000913610'}, 'GPD': {'WRI1023311'}}"
+Cabrela Solar,Solar,PV,PP,Portugal,13.2,,2014.0,,,38.618,-8.462,,,,,{},"{'GEM': {'G100001010442'}, 'GPD': {'WRI1022596'}}"
+Cabeco Da Rainha Wind Farm,Wind,Onshore,PP,Portugal,60.0,,2000.0,,,39.84916666666667,-7.9251,,,,,{},"{'GEM': {'G100000925359', 'G100000925361', 'G100000910967', 'G100000916462', 'G100000925360', 'G100000925362'}, 'GPD': {'WRI1023308', 'WRI1023309'}}"
+Cabeco Alto Wind Farm,Wind,Onshore,PP,Portugal,12.0,,2000.0,,,41.8734,-7.8387,,,,,{},"{'GEM': {'G100000911386'}, 'GPD': {'WRI1023307'}}"
+Bustelo Wind Farm,Wind,Onshore,PP,Portugal,18.0,,2009.0,,,41.0032,-7.9955,,,,,{},"{'GEM': {'G100000913926'}, 'GPD': {'WRI1023306'}}"
+Bravo Wind Farm,Wind,Onshore,PP,Portugal,16.0,,2009.0,,,39.9092,-8.0458,,,,,{},"{'GEM': {'G100000913364'}, 'GPD': {'WRI1023304'}}"
+Bornes Wind Farm,Wind,Onshore,PP,Portugal,70.0,,2009.0,,,41.4638,-6.9626,,,,,{},"{'GEM': {'G100000918891', 'G100000910414'}, 'GPD': {'WRI1023302'}}"
+Bordeira Wind Farm,Wind,Onshore,PP,Portugal,24.0,,2009.0,,,37.2335,-8.8041,,,,,{},"{'GEM': {'G100000915446'}, 'GPD': {'WRI1023301'}}"
+Ferreiras Solar,Solar,PV,PP,Portugal,6.8,,2012.0,,,37.123,-8.263,,,,,{},"{'GEM': {'G100001010448'}, 'GPD': {'WRI1022619'}}"
+Fanhoes Wind Farm,Wind,Onshore,PP,Portugal,31.0,,2005.0,,,38.882666666666665,-9.133033333333334,,,,,{},"{'GEM': {'G100000912239', 'G100000911610', 'G100000925385'}, 'GPD': {'WRI1023342'}}"
+Espinhaco Do Cao Wind Farm,Wind,Onshore,PP,Portugal,10.0,,2008.0,,,37.2201,-8.7834,,,,,{},"{'GEM': {'G100000910503'}, 'GPD': {'WRI1023341'}}"
+Espiga Wind Farm,Wind,Onshore,PP,Portugal,6.0,,2005.0,,,41.7178,-8.8284,,,,,{},"{'GEM': {'G100000925384'}, 'GPD': {'WRI1023340'}}"
+Enerfer Wind Farm,Wind,Onshore,PP,Portugal,16.0,,2009.0,,,39.8257,-7.4957,,,,,{},"{'GEM': {'G100000925416', 'G100000925383'}, 'GPD': {'WRI1023339'}}"
+Enercoutim Solar,Solar,PV,PP,Portugal,4.0,,2014.0,,,37.441,-7.747,,,,,{},"{'GEM': {'G100001010447'}, 'GPD': {'WRI1022632', 'WRI1022633', 'WRI1022634'}}"
+Degracias Wind Farm,Wind,Onshore,PP,Portugal,20.0,,2005.0,,,40.0227,-8.5163,,,,,{},"{'GEM': {'G100000914515'}, 'GPD': {'WRI1023336'}}"
+Costa Vicentina Wind Farm,Wind,Onshore,PP,Portugal,10.0,,2005.0,,,37.8536,-8.7293,,,,,{},"{'GEM': {'G100000910464'}, 'GPD': {'WRI1023335'}}"
+Coruche Solar,Solar,PV,PP,Portugal,15.0,,2014.0,,,38.92,-8.454,,,,,{},"{'GEM': {'G100001010454', 'G100001010453'}, 'GPD': {'WRI1022610'}}"
+Chao Falcao Wind Farm,Wind,Onshore,PP,Portugal,90.0,,2005.0,,,39.6093,-8.7551,,,,,{},"{'GEM': {'G100000910449', 'G100000915868', 'G100000917082', 'G100000914786'}, 'GPD': {'WRI1023329'}}"
+Chamine Wind Farm,Wind,Onshore,PP,Portugal,6.9,,2004.0,,,38.5351,-8.9058,,,,,{},"{'GEM': {'G100000925376'}, 'GPD': {'WRI1023328'}}"
+Centro Candal Coelheira Wind Farm,Wind,Onshore,PP,Portugal,40.0,,2006.0,,,40.825,-8.1401,,,,,{},"{'GEM': {'G100000917602'}, 'GPD': {'WRI1023315'}}"
+Celtejo Cogeneration,Solid Biomass,,PP,Portugal,23.69,,1992.0,,,39.662221,-7.671955,,,,,{},"{'GEM': {'G100001053628'}, 'GPD': {'WRI1022501'}}"
+Celbi,Solid Biomass,,PP,Portugal,71.0,,1987.0,,,40.0542,-8.8705,,,,,{},"{'GEM': {'G100000200257'}, 'GPD': {'WRI1022500'}}"
+Cativante Solar,Solar,PV,PP,Portugal,10.0,,2014.0,,,37.152,-7.955,,,,,{},"{'GEM': {'G100001010446'}, 'GPD': {'WRI1022652', 'WRI1022653'}}"
+Catefica Wind Farm,Wind,Onshore,PP,Portugal,28.0,,2004.0,,,39.0551,-9.2451,,,,,{},"{'GEM': {'G100000913934', 'G100000910857'}, 'GPD': {'WRI1023325'}}"
+Lomba Do Vale Wind Farm,Wind,Onshore,PP,Portugal,25.2,,2010.0,,,41.6026,-7.9896,,,,,{},"{'GEM': {'G100000915020', 'G100000925396'}, 'GPD': {'WRI1023370'}}"
+Loiral Solar,Solar,PV,PP,Portugal,7.2,,2012.0,,,32.744,-17.112,,,,,{},"{'GEM': {'G100001010451'}, 'GPD': {'WRI1022625'}}"
+Lipor,Waste,,PP,Portugal,26.5,,1999.0,,,41.227491,-8.650258,,,,,{},"{'GEM': {'G100001053695'}, 'GPD': {'WRI1022583'}}"
+Leomil Wind Farm,Wind,Onshore,PP,Portugal,16.0,,2007.0,,,40.9575,-7.659,,,,,{},"{'GEM': {'G100000913592'}, 'GPD': {'WRI1023365'}}"
+Lagoa Funda Wind Farm,Wind,Onshore,PP,Portugal,12.0,,2011.0,,,37.1196,-8.8854,,,,,{},"{'GEM': {'G100000911762'}, 'GPD': {'WRI1023362'}}"
+Lagoa De Joao Feirao Wind Farm,Wind,Onshore,PP,Portugal,34.0,,2008.0,,,41.0331,-7.9346,,,,,{},"{'GEM': {'G100000917035'}, 'GPD': {'WRI1023361'}}"
+Joguinho Wind Farm,Wind,Onshore,PP,Portugal,26.0,,2006.0,,,39.1101,-9.1601,,,,,{},"{'GEM': {'G100000915949'}, 'GPD': {'WRI1023360'}}"
+Igreja Nova Wind Farm,Wind,Onshore,PP,Portugal,7.199999999999999,,1999.0,,,38.9098,-9.276,,,,,{},"{'GEM': {'G100000925393', 'G100000925394'}, 'GPD': {'WRI1023358'}}"
+Hercules Solar Farm,Solar,PV,PP,Portugal,10.8,,2006.0,,,38.0292,-7.6206,,,,,{},"{'GEM': {'G100000827237'}, 'GPD': {'WRI1022651'}}"
+Guerreiros Wind Farm,Wind,Onshore,PP,Portugal,21.8,,2008.0,,,37.2254,-8.7583,,,,,{},"{'GEM': {'G100000914007', 'G100000925392'}, 'GPD': {'WRI1023357'}}"
+Guarda Wind Farm,Wind,Onshore,PP,Portugal,25.1,,2004.0,,,40.5412,-7.25,,,,,{},"{'GEM': {'G100000925391', 'G100000925414', 'G100000925412'}, 'GPD': {'WRI1023356'}}"
+Gardunha Wind Farm,Wind,Onshore,PP,Portugal,114.0,,2007.0,,,40.0666,-7.6691,,,,,{},"{'GEM': {'G100000919490'}, 'GPD': {'WRI1023352'}}"
+Freita Wind Farm,Wind,Onshore,PP,Portugal,18.0,,2006.0,,,40.8793,-8.2447,,,,,{},"{'GEM': {'G100000912321'}, 'GPD': {'WRI1023350', 'WRI1023351'}}"
+Fonte Da Quelha Wind Farm,Wind,Onshore,PP,Portugal,32.0,,2004.0,,,41.0146,-8.0996,,,,,{},"{'GEM': {'G100000912475', 'G100000914280'}, 'GPD': {'WRI1023348'}}"
+Fonte Da Mesa Wind Farm,Wind,Onshore,PP,Portugal,20.0,,1996.0,,,41.0863,-7.8701,,,,,{},"{'GEM': {'G100000910518', 'G100000910970'}, 'GPD': {'WRI1023346', 'WRI1023347'}}"
+Figueira Da Foz Industrial Complex,Solid Biomass,,PP,Portugal,95.0,,2004.0,,,40.0576,-8.8595,,,,,{},"{'GEM': {'G100000201424', 'G100001053644'}, 'GPD': {'WRI1022502', 'WRI1022509'}}"
+Negrelo Guilhado Wind Farm,Wind,Onshore,PP,Portugal,33.0,,2009.0,,,41.48255,-7.6141,,,,,{},"{'GEM': {'G100000914645', 'G100000912233'}, 'GPD': {'WRI1023401'}}"
+Nave Wind Farm,Wind,Onshore,PP,Portugal,38.0,,2007.0,,,40.9451,-7.7542,,,,,{},"{'GEM': {'G100000917471'}, 'GPD': {'WRI1023400'}}"
+Mourisca Wind Farm,Wind,Onshore,PP,Portugal,38.0,,2007.0,,,40.9472,-7.8051,,,,,{},"{'GEM': {'G100000917468'}, 'GPD': {'WRI1023399'}}"
+Mosqueiros Wind Farm,Wind,Onshore,PP,Portugal,24.6,,2008.0,,,40.4461,-7.3587,,,,,{},"{'GEM': {'G100000914640', 'G100000925413'}, 'GPD': {'WRI1023395', 'WRI1023396'}}"
+Montijo Solar,Solar,PV,PP,Portugal,13.3,,2014.0,,,38.727,-8.62,,,,,{},"{'GEM': {'G100001010456'}, 'GPD': {'WKS0064396'}}"
+Milagres Wind Farm,Wind,Onshore,PP,Portugal,6.0,,2009.0,,,39.0353,-9.1401,,,,,{},"{'GEM': {'G100000925406'}, 'GPD': {'WRI1023390'}}"
+Meroicinha Wind Farm,Wind,Onshore,PP,Portugal,15.0,,2003.0,,,41.3501,-7.7901,,,,,{},"{'GEM': {'G100000913147'}, 'GPD': {'WRI1023388', 'WRI1023389'}}"
+Marvila Wind Farm,Wind,Onshore,PP,Portugal,32.0,,2008.0,,,39.5701,-8.6888,,,,,{},"{'GEM': {'G100000914629', 'G100000911819'}, 'GPD': {'WRI1023386'}}"
+Marl Solar,Solar,PV,PP,Portugal,7.0,,2009.0,,,38.874,-9.107,,,,,{},"{'GEM': {'G100001010449'}, 'GPD': {'WRI1022631'}}"
+Maravilha Wind Farm,Wind,Onshore,PP,Portugal,10.0,,2009.0,,,39.0636,-9.21135,,,,,{},"{'GEM': {'G100000925402', 'G100000925403'}, 'GPD': {'WRI1023384', 'WRI1023385'}}"
+Malhadizes Wind Farm,Wind,Onshore,PP,Portugal,34.0,,2005.0,,,40.0184,-8.293,,,,,{},"{'GEM': {'G100000911807', 'G100000915060'}, 'GPD': {'WRI1023382'}}"
+Mahladas Gois Wind Farm,Wind,Onshore,PP,Portugal,9.9,,2001.0,,,40.2299,-8.4245,,,,,{},"{'GEM': {'G100000925400'}, 'GPD': {'WRI1023381'}}"
+Madrinha Wind Farm,Wind,Onshore,PP,Portugal,10.0,,2006.0,,,37.3067,-8.6188,,,,,{},"{'GEM': {'G100000910697'}, 'GPD': {'WRI1023377'}}"
+Lousa Wind Farm,Wind,Onshore,PP,Portugal,60.0,,2009.0,,,40.0598,-8.2073,,,,,{},"{'GEM': {'G100000918539', 'G100000910693'}, 'GPD': {'WRI1023376'}}"
+Lourinha Wind Farm,Wind,Onshore,PP,Portugal,36.0,,2011.0,,,39.2962,-9.2605,,,,,{},"{'GEM': {'G100000914093', 'G100000914094'}, 'GPD': {'WRI1023374', 'WRI1023373'}}"
+Portela Do Pereiro Wind Farm,Wind,Onshore,PP,Portugal,7.2,,2014.0,,,39.4988,-8.8972,,,,,{},"{'GEM': {'G100000925436'}, 'GPD': {'WRI1023423'}}"
+Porteirinhos Hqc Solar,Solar,PV,PP,Portugal,25.0,,2010.0,,,37.572,-8.067,,,,,{},"{'GEM': {'G100001010436', 'G100001010440'}, 'GPD': {'WRI1022640'}}"
+Po Wind Farm,Wind,Onshore,PP,Portugal,9.1,,2006.0,,,39.3034,-9.2146,,,,,{},"{'GEM': {'G100000925434'}, 'GPD': {'WRI1023421'}}"
+Pinheiro Wind Farm,Wind,Onshore,PP,Portugal,22.0,,2002.0,,,40.7301,-8.2101,,,,,{},"{'GEM': {'G100000915047'}, 'GPD': {'WRI1023420'}}"
+Pinhal Interior Wind Farm,Wind,Onshore,PP,Portugal,156.6,,2006.0,,,39.9416,-7.9655,,,,,{},"{'GEM': {'G100000915983', 'G100000918771', 'G100000918975', 'G100001003823'}, 'GPD': {'WRI1023419'}}"
+Pico Vermelho Geothermal,Geothermal,Steam Turbine,PP,Portugal,10.0,,2006.0,,,37.8021,-25.5059,,,,,{},"{'GEM': {'G100000700423'}, 'GPD': {'WRI1022558'}}"
+Penedo Ruivo Wind Farm,Wind,Onshore,PP,Portugal,13.0,,2005.0,,,41.2358,-7.9083,,,,,{},"{'GEM': {'G100000912369'}, 'GPD': {'WRI1023413'}}"
+Penamacor Wind Farm,Wind,Onshore,PP,Portugal,80.0,,2006.0,,,40.20644,-7.24832,,,,,{},"{'GEM': {'G100000911900', 'G100000912963', 'G100000914667', 'G100000925428', 'G100000915852'}, 'GPD': {'WRI1023412'}}"
+Pena Suar Wind Farm,Wind,Onshore,PP,Portugal,16.0,,1998.0,,,41.2501,-7.8901,,,,,{},"{'GEM': {'G100000925426', 'G100000910782'}, 'GPD': {'WRI1023411'}}"
+Pedras Wind Farm,Wind,Onshore,PP,Portugal,10.0,,2009.0,,,32.742,-17.0557,,,,,{},"{'GEM': {'G100000910976'}, 'GPD': {'WRI1023410'}}"
+Passarinho Wind Farm,Wind,Onshore,PP,Portugal,22.0,,2004.0,,,38.7336,-9.1387,,,,,{},"{'GEM': {'G100000925449', 'G100000925344', 'G100000925423', 'G100000925424'}, 'GPD': {'WRI1023407'}}"
+Pampilhosa Wind Farm,Wind,Onshore,PP,Portugal,111.0,,2005.0,,,40.1143,-7.9465,,,,,{},"{'GEM': {'G100000919183', 'G100000916946'}, 'GPD': {'WRI1023406'}}"
+Outeiro Wind Farm,Wind,Onshore,PP,Portugal,30.0,,2005.0,,,41.334,-7.8362,,,,,{},"{'GEM': {'G100000916600'}, 'GPD': {'WRI1023403'}}"
+Ourique Solar Farm,Solar,PV,PP,Portugal,62.0,,2019.0,,,37.6558,-8.223,,,,,{},"{'GEM': {'G100000827282'}, 'GPD': {'WKS0066183'}}"
+Ortiga Wind Farm,Wind,Onshore,PP,Portugal,13.0,,2006.0,,,40.0051,-8.2365,,,,,{},"{'GEM': {'G100000912469'}, 'GPD': {'WRI1023402'}}"
+Serra De Alvoaca Wind Farm,Wind,Onshore,PP,Portugal,36.0,,2007.0,,,40.2642,-7.6977,,,,,{},"{'GEM': {'G100000914704', 'G100000913601'}, 'GPD': {'WRI1023464'}}"
+Serra Da Cabreira Wind Farm,Wind,Onshore,PP,Portugal,20.0,,2004.0,,,41.645,-8.044,,,,,{},"{'GEM': {'G100000914703'}, 'GPD': {'WRI1023460'}}"
+Serra Da Boneca Lage Wind Farm,Wind,Onshore,PP,Portugal,4.2,,1999.0,,,39.3401,-8.7309,,,,,{},"{'GEM': {'G100000925467'}, 'GPD': {'WRI1023463'}}"
+Serra Da Amendoa Wind Farm,Wind,Onshore,PP,Portugal,19.5,,2002.0,,,39.6222,-8.0282,,,,,{},"{'GEM': {'G100000912969', 'G100000925463'}, 'GPD': {'WRI1023456'}}"
+Senhora Do Socorro Wind Farm,Wind,Onshore,PP,Portugal,6.0,,2006.0,,,39.0207,-9.2074,,,,,{},"{'GEM': {'G100000925458'}, 'GPD': {'WRI1023451'}}"
+Senhora Da Vitoria Wind Farm,Wind,Onshore,PP,Portugal,12.0,,2004.0,,,39.6316,-9.0744,,,,,{},"{'GEM': {'G100000911998'}, 'GPD': {'WRI1023448'}}"
+Seixinhos Wind Farm,Wind,Onshore,PP,Portugal,24.0,,2004.0,,,41.2054,-7.89015,,,,,{},"{'GEM': {'G100000912850', 'G100000911029'}, 'GPD': {'WRI1023447'}}"
+Sardinha Wind Farm,Wind,Onshore,PP,Portugal,26.0,,2008.0,,,38.8741,-9.2219,,,,,{},"{'GEM': {'G100000915997'}, 'GPD': {'WRI1023445'}}"
+Sao Pedro Wind Farm,Wind,Onshore,PP,Portugal,10.0,,2005.0,,,40.9949,-8.0911,,,,,{},"{'GEM': {'G100000910835'}, 'GPD': {'WRI1023444'}}"
+Sao Paio Wind Farm,Wind,Onshore,PP,Portugal,10.0,,2005.0,,,41.9125,-8.7113,,,,,{},"{'GEM': {'G100000910834'}, 'GPD': {'WRI1023443'}}"
+Sao Mamede Wind Farm,Wind,Onshore,PP,Portugal,6.9,,2006.0,,,38.9738,-9.2274,,,,,{},"{'GEM': {'G100000925453'}, 'GPD': {'WRI1023442'}}"
+Sao Macario Wind Farm,Wind,Onshore,PP,Portugal,35.0,,2007.0,,,40.8716,-8.0765,,,,,{},"{'GEM': {'G100000911365', 'G100000915359'}, 'GPD': {'WRI1023440'}}"
+Riccardo Totta Solar,Solar,PV,PP,Portugal,219.0,,2021.0,,,37.365,-7.665,,,,,{},"{'GEM': {'G100000807934'}, 'GPD': {'WKS0070717'}}"
+Ribeira Grande Geothermal,Geothermal,Steam Turbine,PP,Portugal,14.0,,1994.0,,,37.7833,-25.5006,,,,,{},"{'GEM': {'G100000700559', 'G100000700558'}, 'GPD': {'WRI1022559'}}"
+Ribabelide Wind Farm,Wind,Onshore,PP,Portugal,14.0,,2008.0,,,41.0146,-7.8735,,,,,{},"{'GEM': {'G100000912800'}, 'GPD': {'WRI1023432'}}"
+Raia Wind Farm,Wind,Onshore,PP,Portugal,122.4,,2011.0,,,40.4192,-7.2627,,,,,{},"{'GEM': {'G100000925440', 'G100000916839', 'G100000914688', 'G100000912790', 'G100000925442', 'G100000925444', 'G100000917058', 'G100000925441'}, 'GPD': {'WRI1023430'}}"
+Trancoso Wind Farm,Wind,Onshore,PP,Portugal,28.0,,2008.0,,,40.8566,-7.3813,,,,,{},"{'GEM': {'G100000916286'}, 'GPD': {'WRI1022480'}}"
+Toutico Wind Farm,Wind,Onshore,PP,Portugal,102.0,,2008.0,,,40.1718,-7.8336,,,,,{},"{'GEM': {'G100000914995', 'G100000919224'}, 'GPD': {'WRI1022479'}}"
+Torre De Coelheiros Solar,Solar,PV,PP,Portugal,5.0,,2015.0,,,38.513,-7.901,,,,,{},"{'GEM': {'G100001010444'}, 'GPD': {'WRI1022622'}}"
+Testos Wind Farm,Wind,Onshore,PP,Portugal,28.0,,2008.0,,,40.9903,-7.8503,,,,,{},"{'GEM': {'G100000915654', 'G100000925480'}, 'GPD': {'WRI1022477'}}"
+Terras Altas De Fafe Wind Farm,Wind,Onshore,PP,Portugal,124.0,,2004.0,,,41.492133333333335,-8.075433333333335,,,,,{},"{'GEM': {'G100000916013', 'G100000919186', 'G100001003821'}, 'GPD': {'WRI1022474'}}"
+Terra Fria Wind Farm,Wind,Onshore,PP,Portugal,104.0,,2010.0,,,41.7783,-7.8747,,,,,{},"{'GEM': {'G100000918634', 'G100000917311', 'G100000910891', 'G100000925479'}, 'GPD': {'WRI1022473'}}"
+Tendais Wind Farm,Wind,Onshore,PP,Portugal,12.0,,2007.0,,,41.0372,-8.1198,,,,,{},"{'GEM': {'G100000912029'}, 'GPD': {'WRI1022472'}}"
+Sico Wind Farm,Wind,Onshore,PP,Portugal,20.0,,2008.0,,,39.9279,-8.5633,,,,,{},"{'GEM': {'G100000914706'}, 'GPD': {'WRI1022467'}}"
+Setubal,Solid Biomass,,PP,Portugal,53.9,,2004.0,,,38.493492,-8.810782,,,,,{},"{'GEM': {'G100001053629'}, 'GPD': {'WRI1022504', 'WRI1022516'}}"
+Serra El Rei Wind Farm,Wind,Onshore,PP,Portugal,26.0,,2006.0,,,39.3217,-9.2659,,,,,{},"{'GEM': {'G100000915061', 'G100000925462'}, 'GPD': {'WRI1023455'}}"
+Serra Do Ralo Wind Farm,Wind,Onshore,PP,Portugal,32.0,,2006.0,,,40.5828,-7.398,,,,,{},"{'GEM': {'G100000916843'}, 'GPD': {'WRI1022465'}}"
+Serra Do Mu Wind Farm,Wind,Onshore,PP,Portugal,26.0,,2008.0,,,37.3759,-8.0889,,,,,{},"{'GEM': {'G100000912823', 'G100000912001'}, 'GPD': {'WRI1023473'}}"
+Serra Do Leiranco Wind Farm,Wind,Onshore,PP,Portugal,32.6,,2014.0,,,41.7415,-7.6535,,,,,{},"{'GEM': {'G100000916183', 'G100000925473'}, 'GPD': {'WRI1023472'}}"
+Serra Do Barroso Wind Farm,Wind,Onshore,PP,Portugal,44.0,,2003.0,,,41.685966666666666,-7.8552,,,,,{},"{'GEM': {'G100000913542', 'G100000914188', 'G100000910860'}, 'GPD': {'WRI1023469', 'WRI1023467', 'WRI1023468'}}"
+Serra Do Alvao Wind Farm,Wind,Onshore,PP,Portugal,42.0,,2002.0,,,41.4167,-7.7355,,,,,{},"{'GEM': {'G100000917843'}, 'GPD': {'WRI1023466', 'WRI1023279'}}"
+Serra De Todo Mundo Wind Farm,Wind,Onshore,PP,Portugal,10.0,,2004.0,,,39.2926,-9.0279,,,,,{},"{'GEM': {'G100000910859'}, 'GPD': {'WRI1023465'}}"
+Vila Nova Wind Farm,Wind,Onshore,PP,Portugal,58.6,,2004.0,,,40.05015,-8.26375,,,,,{},"{'GEM': {'G100000916025', 'G100000915668', 'G100000925485', 'G100000925484'}, 'GPD': {'WRI1022493', 'WRI1022494'}}"
+Vila Do Bispo Wind Farm,Wind,Onshore,PP,Portugal,10.0,,1998.0,,,37.0977,-8.8714,,,,,{},"{'GEM': {'G100000911048'}, 'GPD': {'WRI1022490', 'WRI1022489'}}"
+Vila Cova Wind Farm,Wind,Onshore,PP,Portugal,34.0,,2014.0,,,41.3076,-7.8999,,,,,{},"{'GEM': {'G100000917098'}, 'GPD': {'WRI1022488'}}"
+Videira Wind Farm,Wind,Onshore,PP,Portugal,6.0,,2005.0,,,39.7513,-8.8034,,,,,{},"{'GEM': {'G100000925483'}, 'GPD': {'WRI1022486'}}"
+Valorsul Waste To Energy,Waste,,PP,Portugal,50.0,,1998.0,,,38.8279,-9.0817,,,,,{},"{'GEM': {'G100000200349'}, 'GPD': {'WRI1022585'}}"
+Vale Matancas Solar,Solar,PV,PP,Portugal,7.2,,2018.0,,,38.408,-8.486,,,,,{},"{'GEM': {'G100001010458'}, 'GPD': {'WKS0069587'}}"
+Vale Grande Wind Farm,Wind,Onshore,PP,Portugal,12.0,,2011.0,,,40.1884,-7.9137,,,,,{},"{'GEM': {'G100000912153'}, 'GPD': {'WRI1022484'}}"
+Vale De Moura Solar Farm,Solar,PV,PP,Portugal,29.0,,2019.0,,,38.518,-7.832,,,,,{},"{'GEM': {'G100000807415'}, 'GPD': {'WKS0071741'}}"
+Vale De Estrela Wind Farm,Wind,Onshore,PP,Portugal,26.0,,2014.0,,,40.4926,-7.3042,,,,,{},"{'GEM': {'G100000911378', 'G100000912564'}, 'GPD': {'WRI1022482'}}"
+Trandeiras Wind Farm,Wind,Onshore,PP,Portugal,18.0,,2003.0,,,41.5467,-7.6897,,,,,{},"{'GEM': {'G100000914260'}, 'GPD': {'WRI1022481'}}"
+Porto Santo Bess,Battery,Li,Store,Portugal,4.0,,2010.0,,,33.07,-16.34,,,,3.0,{},"{'EESI': {'EESI-64476'}, 'GPD': {'WRI1022641'}}"
+Sines Polimeros,Natural Gas,CCGT,CHP,Portugal,43.0,,1981.0,,,37.9583,-8.8048,,,,,{},"{'GEM': {'G100000400592'}, 'GEO': {'GEO-43579'}}"
+Acor Wind Farm,Wind,Onshore,PP,Portugal,4.0,,2011.0,,,40.1975,-7.8016,,,,,{},"{'GEM': {'G100000925318', 'G100000925317'}}"
+Albercas Solar Farm,Solar,PV,PP,Portugal,125.0,,2022.0,,,37.471,-7.476,,,,,{},"{'GEM': {'G100000807300', 'G100000807299', 'G100000807298'}}"
+Alcanhoes Solar Farm,Solar,PV,PP,Portugal,38.2,,2021.0,,,39.4629,-8.1975,,,,,{},"{'GEM': {'G100000807681', 'G100000827153'}}"
+Alcaria Solar Farm,Solar,PV,PP,Portugal,120.6,,2020.0,,,38.8083,-7.4361,,,,,{},"{'GEM': {'G100000827213', 'G100000827154'}}"
+Alcochete Solar Farm,Solar,PV,PP,Portugal,69.4,,2023.0,,,38.70406666666667,-8.862966666666667,,,,,{},"{'GEM': {'G100001004241', 'G100000827156', 'G100000827155'}}"
+Algeruz Solar Farm,Solar,PV,PP,Portugal,27.4,,2022.0,,,38.5792,-8.8435,,,,,{},{'GEM': {'G100000827160'}}
+Alqueva Dam Floating Solar Farm,Solar,PV,PP,Portugal,5.0,,,,,38.1996,-7.4928,,,,,{},{'GEM': {'G100000827161'}}
+Alto Da Vaca Wind Farm,Wind,Onshore,PP,Portugal,2.4,,2002.0,,,41.6651,-8.0898,,,,,{},"{'GEM': {'G100000925322', 'G100000925323'}}"
+Alto Do Marco Wind Farm,Wind,Onshore,PP,Portugal,2.4,,2022.0,,,41.4086,-7.799,,,,,{},{'GEM': {'G100000925325'}}
+Alto Do Seixal Wind Farm,Wind,Onshore,PP,Portugal,22.7,,2003.0,,,41.298,-7.7371,,,,,{},"{'GEM': {'G100000925401', 'G100000925405', 'G100000925375', 'G100000925326', 'G100000925421'}}"
+Alto Douro Wind Farm,Wind,Onshore,PP,Portugal,7.4,,2013.0,,,41.0696,-7.5769,,,,,{},"{'GEM': {'G100000925331', 'G100000925335', 'G100000925330', 'G100000925328'}}"
+Alvao Wind Farm,Wind,Onshore,PP,Portugal,23.0,,2002.0,,,41.3656,-7.8178,,,,,{},"{'GEM': {'G100000911431', 'G100000911054'}}"
+Antuzede Solar Farm,Solar,PV,PP,Portugal,11.4,,2023.0,,,40.2551,-8.4732,,,,,{},{'GEM': {'G100001004242'}}
+Arga Wind Farm,Wind,Onshore,PP,Portugal,2.2,,2022.0,,,41.8246,-8.7108,,,,,{},{'GEM': {'G100000925346'}}
+Azambuja Solar Farm,Solar,PV,PP,Portugal,12.0,,2020.0,,,39.4598,-8.6628,,,,,{},"{'GEM': {'G100000827172', 'G100000827331'}}"
+Azinheira Wind Farm,Wind,Onshore,PP,Portugal,2.8,,2022.0,,,41.427,-8.0581,,,,,{},{'GEM': {'G100000925348'}}
+Baiao Wind Farm,Wind,Onshore,PP,Portugal,23.1,,1998.0,,,41.163066666666666,-8.624699999999999,,,,,{},"{'GEM': {'G100000925390', 'G100000925399', 'G100000925465', 'G100000925435', 'G100000925466', 'G100000925349'}}"
+Barros Solar Farm,Solar,PV,PP,Portugal,5.0,,2019.0,,,38.1867,-8.565,,,,,{},{'GEM': {'G100000827175'}}
+Beira Interior Wind Farm,Wind,Onshore,PP,Portugal,1.5,,2015.0,,,40.8122,-7.3521,,,,,{},{'GEM': {'G100000925353'}}
+Benfica Solar Farm,Solar,PV,PP,Portugal,19.0,,2020.0,,,38.7361,-9.1897,,,,,{},{'GEM': {'G100000827177'}}
+Betty Solar Farm,Solar,PV,PP,Portugal,23.0,,2022.0,,,41.3488,-6.5703,,,,,{},{'GEM': {'G100000807157'}}
+Boidobra Solar Farm,Solar,PV,PP,Portugal,70.0,,2024.0,,,40.2814,-7.4971,,,,,{},"{'GEM': {'G100000827181', 'G100000827194'}}"
+Borninhos Wind Farm,Wind,Onshore,PP,Portugal,14.0,,2004.0,,,41.8118,-6.750899999999999,,,,,{},"{'GEM': {'G100000925372', 'G100000925356', 'G100000925386'}}"
+Bulgueira Wind Farm,Wind,Onshore,PP,Portugal,2.4,,2023.0,,,41.5249,-7.7965,,,,,{},{'GEM': {'G100000925358'}}
+Cabeco Gordo Wind Farm,Wind,Onshore,PP,Portugal,6.0,,2024.0,,,39.6042,-8.8176,,,,,{},{'GEM': {'G100000925363'}}
+Cadafaz Wind Farm,Wind,Onshore,PP,Portugal,2.0,,2018.0,,,40.1301,-8.0501,,,,,{},{'GEM': {'G100000925365'}}
+Cadaval Solar Farm,Solar,PV,PP,Portugal,2.0,,2022.0,,,39.245,-9.1022,,,,,{},{'GEM': {'G100000827188'}}
+Cadraco Wind Farm,Wind,Onshore,PP,Portugal,1.2,,2004.0,,,40.5561,-8.1948,,,,,{},{'GEM': {'G100000925366'}}
+Caldeirao,Oil,CCGT,,Portugal,68.0,,2004.0,,,37.7812,-25.6137,,,,,{},{'GEM': {'G100001000184'}}
+Candeeiros Wind Farm,Wind,Onshore,PP,Portugal,121.0,,2006.0,,,39.3901,-8.9457,,,,,{},"{'GEM': {'G100000910437', 'G100000919174', 'G100000916901'}}"
+Canical,Oil,CCGT,CHP,Portugal,72.0,,2005.0,,,32.6473,-16.9679,,,,,{},{'GEM': {'G100001000185'}}
+Carreco Outeiro Wind Farm,Wind,Onshore,PP,Portugal,1.8,,2013.0,,,41.7567,-8.8083,,,,,{},{'GEM': {'G100000925369'}}
+Carregado Solar Farm,Solar,PV,PP,Portugal,64.0,,2025.0,,,39.0237,-8.9646,,,,,{},{'GEM': {'G100000827190'}}
+Carrico Refinery,Natural Gas,CCGT,CHP,Portugal,32.0,,2009.0,,,39.98321,-8.85129,,,,,{},{'GEM': {'G100000410467'}}
+Cartaxo Solar,Solar,PV,PP,Portugal,9.7,,2020.0,,,39.129,-8.81,,,,,{},{'GEM': {'G100001010452'}}
+Casais Da Marmeleira Solar Farm,Solar,PV,PP,Portugal,214.1,,2022.0,,,39.0975,-9.03305,,,,,{},"{'GEM': {'G100000827193', 'G100000827199'}}"
+Cela Wind Farm,Wind,Onshore,PP,Portugal,2.0,,2006.0,,,39.5383,-9.0498,,,,,{},{'GEM': {'G100000925373'}}
+Chiqueiro Wind Farm,Wind,Onshore,PP,Portugal,12.0,,2005.0,,,40.2299,-8.4245,,,,,{},"{'GEM': {'G100000925464', 'G100000925377', 'G100000925439'}}"
+Coentral Safra Wind Farm,Wind,Onshore,PP,Portugal,85.4,,2007.0,,,40.1055,-8.178033333333333,,,,,{},"{'GEM': {'G100000925379', 'G100000917142', 'G100000917748'}}"
+Conde Solar Farm,Solar,PV,PP,Portugal,14.0,,2022.0,,,39.678,-8.1983,,,,,{},{'GEM': {'G100000827204'}}
+Corte Dos Alamos Wind Farm,Wind,Onshore,PP,Portugal,12.0,,2007.0,,,37.0281,-7.9228,,,,,{},"{'GEM': {'G100000925380', 'G100000925430'}}"
+Cotovio Solar,Solar,PV,PP,Portugal,49.0,,2021.0,,,37.1911,-8.5123,,,,,{},{'GEM': {'G100000807760'}}
+Cruz De Campo Hyperion Solar Farm,Solar,PV,PP,Portugal,7.8,,2020.0,,,39.1546,-8.7775,,,,,{},{'GEM': {'G100000827205'}}
+Diarao Da Rua Wind Farm,Wind,Onshore,PP,Portugal,2.6,,2004.0,,,40.5412,-7.25,,,,,{},{'GEM': {'G100000925381'}}
+Douro Sonnedix Solar Farm,Solar,PV,PP,Portugal,144.3,,2025.0,,,41.0244,-7.6732,,,,,{},{'GEM': {'G100000827209'}}
+Douro Sul Wind Farm,Wind,Onshore,PP,Portugal,24.0,,2016.0,,,40.6276,-7.9611,,,,,{},{'GEM': {'G100000915472'}}
+Douro Sul Wind Farm,Wind,Onshore,PP,Portugal,125.0,,2016.0,,,40.9692,-7.6838,,,,,{},"{'GEM': {'G100000917504', 'G100000919275'}}"
+Evora Solar Farm,Solar,PV,PP,Portugal,26.0,,2019.0,,,38.393,-7.9652,,,,,{},"{'GEM': {'G100000827216', 'G100000827217'}}"
+Ferreira Do Alentejo Solar Farm,Solar,PV,PP,Portugal,46.0,,2020.0,,,38.0635,-8.0508,,,,,{},{'GEM': {'G100000806939'}}
+Ferreira Solar,Solar,PV,PP,Portugal,10.0,,2010.0,,,38.054,-8.1363,,,,,{},{'GEM': {'G100001010438'}}
+Figueira Da Foz Industrial Complex,Natural Gas,CCGT,,Portugal,67.0,,2000.0,,,40.0576,-8.8595,,,,,{},{'GEM': {'G100000400586'}}
+Fisigen,Natural Gas,Steam Turbine,CHP,Portugal,24.0,,2010.0,,,40.8666,-8.4151,,,,,{},{'GEM': {'G100000410470'}}
+Fonte Da Mesa Wind Farm,Wind,Onshore,PP,Portugal,2.0,,2021.0,,,41.0863,-7.8701,,,,,{},{'GEM': {'G100000925388'}}
+Fonte Figueira Solar Farm,Solar,PV,PP,Portugal,7.2,,2021.0,,,38.8389,-7.5983,,,,,{},{'GEM': {'G100000827221'}}
+Foral Solar Farm,Solar,PV,PP,Portugal,43.0,,2025.0,,,37.1968,-8.4404,,,,,{},{'GEM': {'G100000827223'}}
+Freixial Solar Farm,Solar,PV,PP,Portugal,28.7,,2021.0,,,38.70085,-7.402200000000001,,,,,{},"{'GEM': {'G100000827238', 'G100000827228'}}"
+Fundao Solar Farm,Solar,PV,PP,Portugal,126.0,,2024.0,,,40.1349,-7.4858,,,,,{},{'GEM': {'G100000827229'}}
+Gardunha Wind Farm,Wind,Onshore,PP,Portugal,25.0,,,,,40.1774,-7.4885,,,,,{},{'GEM': {'G100001003828'}}
+Gardunha Wind Farm,Wind,Onshore,PP,Portugal,21.0,,2022.0,,,40.1774,-7.3406,,,,,{},{'GEM': {'G100000925389'}}
+Gemunde Solar Farm,Solar,PV,PP,Portugal,48.9,,2025.0,,,41.4221,-8.5087,,,,,{},{'GEM': {'G100000827235'}}
+Gloria Solar Farm,Solar,PV,PP,Portugal,21.5,,2020.0,,,39.025,-8.7929,,,,,{},{'GEM': {'G100000827236'}}
+Guardao Wind Farm,Wind,Onshore,PP,Portugal,29.0,,2016.0,,,40.5922,-8.4626,,,,,{},{'GEM': {'G100000916310'}}
+Herdade Da Serra Solar Farm,Solar,PV,PP,Portugal,36.0,,2020.0,,,38.0255,-8.15,,,,,{},{'GEM': {'G100000827239'}}
+Indorama Sines,Natural Gas,CCGT,CHP,Portugal,41.0,,,,,37.98091,-8.82143,,,,,{},{'GEM': {'G100000410468'}}
+Infantado Solar Farm,Solar,PV,PP,Portugal,14.3,,2020.0,,,38.8496,-8.8058,,,,,{},{'GEM': {'G100000827241'}}
+Insua Solar Farm,Solar,PV,PP,Portugal,48.5,,2022.0,,,38.0881,-7.4977,,,,,{},{'GEM': {'G100000827242'}}
+Lagos Solar,Solar,PV,PP,Portugal,49.0,,2022.0,,,37.156,-8.7073,,,,,{},{'GEM': {'G100000806942'}}
+Larinho Solar Farm,Solar,PV,PP,Portugal,10.9,,2021.0,,,41.1729,-7.061,,,,,{},{'GEM': {'G100000827244'}}
+Lomba De Seixa Wind Farm,Wind,Onshore,PP,Portugal,25.0,,2000.0,,,41.8301,-7.7901,,,,,{},"{'GEM': {'G100000912339', 'G100000911793'}}"
+Lourinha Wind Farm,Wind,Onshore,PP,Portugal,5.4,,2013.0,,,39.2962,-9.2605,,,,,{},"{'GEM': {'G100000925398', 'G100000925397'}}"
+Maunca Wind Farm,Wind,Onshore,PP,Portugal,20.0,,2018.0,,,39.6658,-8.736,,,,,{},{'GEM': {'G100000914780'}}
+Mendo Marco Solar Farm,Solar,PV,PP,Portugal,24.0,,,,,37.9909,-8.263,,,,,{},{'GEM': {'G100000807793'}}
+Messejana Solar,Solar,PV,PP,Portugal,10.0,,2019.0,,,37.814,-8.261,,,,,{},{'GEM': {'G100001010439'}}
+Mina De Orgueirel Hybrid Solar Farm,Solar,PV,PP,Portugal,8.4,,2023.0,,,40.5129,-7.2424,,,,,{},{'GEM': {'G100000827259'}}
+Mogadouro Solar,Solar,PV,PP,Portugal,49.0,,2020.0,,,41.3427,-6.5611,,,,,{},{'GEM': {'G100000807158'}}
+Moinho De Manique Wind Farm,Wind,Onshore,PP,Portugal,2.6,,2004.0,,,38.8956,-9.2376,,,,,{},{'GEM': {'G100000925408'}}
+Moinho Dos Chaos Wind Farm,Wind,Onshore,PP,Portugal,1.8,,1992.0,,,38.5351,-8.9058,,,,,{},{'GEM': {'G100000925409'}}
+Moinho Velho Wind Farm,Wind,Onshore,PP,Portugal,3.8,,2004.0,,,38.7336,-9.1387,,,,,{},"{'GEM': {'G100000925460', 'G100000925410'}}"
+Mondego,Solid Biomass,,,Portugal,75.9,,2009.0,,,40.0527,-8.8756,,,,,{},"{'GEM': {'G100001053651', 'G100000201425'}}"
+Monte De Vez Solar Farm,Solar,PV,PP,Portugal,21.0,,2024.0,,,39.9988,-8.3986,,,,,{},{'GEM': {'G100001004275'}}
+Monte Falcato Solaria Solar Farm,Solar,PV,PP,Portugal,14.1,,2022.0,,,38.8829,-7.1005,,,,,{},{'GEM': {'G100000827264'}}
+Montechoro Solar Farm,Solar,PV,PP,Portugal,36.6,,2024.0,,,37.1006,-8.2281,,,,,{},"{'GEM': {'G100000827266', 'G100000827265'}}"
+Montijo Wind Farm,Wind,Onshore,PP,Portugal,2.0,,2005.0,,,39.0223,-9.1393,,,,,{},{'GEM': {'G100000925411'}}
+Morgado De Arge Solar Farm,Solar,PV,PP,Portugal,45.0,,2021.0,,,37.187,-8.5524,,,,,{},{'GEM': {'G100000827270'}}
+Morgavel Solar Farm,Solar,PV,PP,Portugal,46.0,,2023.0,,,37.9136,-8.7697,,,,,{},{'GEM': {'G100000827271'}}
+Mosteiro Wind Farm,Wind,Onshore,PP,Portugal,3.8,,2009.0,,,40.5412,-7.25,,,,,{},"{'GEM': {'G100000925461', 'G100000925415'}}"
+Moura Amareleja Solar Farm,Solar,PV,PP,Portugal,56.0,,2020.0,,,38.1431,-7.4191,,,,,{},"{'GEM': {'G100000827272', 'G100000827273'}}"
+Moura Winnrg Solar Farm,Solar,PV,PP,Portugal,49.0,,2021.0,,,38.1977,-7.4142,,,,,{},{'GEM': {'G100000806940'}}
+Negrelo Guilhado Wind Farm,Wind,Onshore,PP,Portugal,2.0,,2009.0,,,41.475,-7.6272,,,,,{},{'GEM': {'G100000925419'}}
+Nisa Solar Farm,Solar,PV,PP,Portugal,50.0,,2019.0,,,39.5139,-7.6497,,,,,{},"{'GEM': {'G100000827276', 'G100000827278', 'G100000827277'}}"
+Oliveira De Frades Solar Farm,Solar,PV,PP,Portugal,1.2,,2023.0,,,40.7138,-8.2119,,,,,{},{'GEM': {'G100001004243'}}
+Paderne Solar Farm,Solar,PV,PP,Portugal,17.4,,2022.0,,,38.7353,-9.1654,,,,,{},{'GEM': {'G100000827286'}}
+Palmela Solar Farm,Solar,PV,PP,Portugal,115.3,,2023.0,,,38.6569,-8.898166666666667,,,,,{},"{'GEM': {'G100000827294', 'G100000827287', 'G100001004244'}}"
+Pena Suar Wind Farm,Wind,Onshore,PP,Portugal,2.1,,2016.0,,,41.2501,-7.8901,,,,,{},{'GEM': {'G100000925427'}}
+Penacova Wind Farm,Wind,Onshore,PP,Portugal,47.0,,2019.0,,,40.2719,-8.2845,,,,,{},{'GEM': {'G100000918110'}}
+Penamacor Solar Farm,Solar,PV,PP,Portugal,82.0,,2024.0,,,40.1685,-7.177,,,,,{},{'GEM': {'G100000827292'}}
+Penamacor Wind Farm,Wind,Onshore,PP,Portugal,60.0,,2006.0,,,40.1701,-7.170100000000001,,,,,{},"{'GEM': {'G100000915851', 'G100000912962', 'G100000914668'}}"
+Perdigao Wind Farm,Wind,Onshore,PP,Portugal,2.0,,2007.0,,,39.7053,-7.7378,,,,,{},{'GEM': {'G100000925429'}}
+Pereiro Solar Farm,Solar,PV,PP,Portugal,18.7,,2023.0,,,37.4487,-7.6119,,,,,{},{'GEM': {'G100001003839'}}
+Picos Vale Do Chao Wind Farm,Wind,Onshore,PP,Portugal,23.0,,2015.0,,,40.0755,-8.1415,,,,,{},{'GEM': {'G100000915257'}}
+Picos Verdes Wind Farm,Wind,Onshore,PP,Portugal,7.6,,2014.0,,,37.0281,-7.9228,,,,,{},"{'GEM': {'G100000925431', 'G100000925447'}}"
+Picotinhos Valerios Wind Farm,Wind,Onshore,PP,Portugal,2.0,,2006.0,,,38.8883,-9.2005,,,,,{},{'GEM': {'G100000925432'}}
+Pisco Wind Farm,Wind,Onshore,PP,Portugal,50.0,,2015.0,,,40.8171,-7.5435,,,,,{},"{'GEM': {'G100000917054', 'G100000913506'}}"
+Poceirao Solar,Solar,PV,PP,Portugal,50.0,,2026.0,,,38.7193,-9.1534,,,,,{},{'GEM': {'G100000806930'}}
+Pracana Wind Farm,Wind,Onshore,PP,Portugal,2.0,,2006.0,,,39.3401,-8.7309,,,,,{},{'GEM': {'G100000925437'}}
+Praia Norte Wind Farm,Wind,Onshore,PP,Portugal,2.0,,2012.0,,,41.7178,-8.8284,,,,,{},{'GEM': {'G100000925438'}}
+Quinta Da Cruz Solar Farm,Solar,PV,PP,Portugal,15.5,,2022.0,,,40.0634,-8.6238,,,,,{},{'GEM': {'G100000827299'}}
+Quinta Da Sexia Solar Farm,Solar,PV,PP,Portugal,83.0,,2026.0,,,40.0333,-7.8896,,,,,{},"{'GEM': {'G100000806932', 'G100000806931'}}"
+Quinta Do Anjo Solar Farm,Solar,PV,PP,Portugal,30.0,,2023.0,,,38.5761,-8.8935,,,,,{},{'GEM': {'G100000827301'}}
+Raia Wind Farm,Wind,Onshore,PP,Portugal,6.4,,2013.0,,,40.4192,-7.2627,,,,,{},"{'GEM': {'G100000925443', 'G100000925446', 'G100000925445'}}"
+Rio Maior Solar Farm,Solar,PV,PP,Portugal,204.0,,2025.0,,,39.0691,-8.86,,,,,{},{'GEM': {'G100000827305'}}
+Sado Brisa Solar Farm,Solar,PV,PP,Portugal,12.5,,2021.0,,,38.3581,-8.4466,,,,,{},{'GEM': {'G100000827311'}}
+Salvaterra De Magos Rosseti Solar Farm,Solar,PV,PP,Portugal,30.0,,2021.0,,,39.024,-8.674,,,,,{},{'GEM': {'G100000807712'}}
+Santa Helena Wind Farm,Wind,Onshore,PP,Portugal,4.0,,2005.0,,,40.6621,-7.924,,,,,{},{'GEM': {'G100000925450'}}
+Santarem Winrg Gmbh Solar Farm,Solar,PV,PP,Portugal,23.0,,2021.0,,,39.2767,-8.6507,,,,,{},{'GEM': {'G100000806941'}}
+Santas Solar Farm,Solar,PV,PP,Portugal,180.0,,,,,39.049,-7.44,,,,,{},{'GEM': {'G100000827314'}}
+Sao Cristovao Wind Farm,Wind,Onshore,PP,Portugal,36.2,,2003.0,,,40.6621,-7.924,,,,,{},"{'GEM': {'G100000925451', 'G100000925371', 'G100000925456', 'G100000925404', 'G100000925478', 'G100000925452', 'G100000925457', 'G100000925378'}}"
+Sao Domingos Solar,Solar,PV,PP,Portugal,11.0,,2018.0,,,37.914,-8.468,,,,,{},{'GEM': {'G100001010457'}}
+Sao Paio Wind Farm,Wind,Onshore,PP,Portugal,2.2,,2022.0,,,41.9125,-8.7113,,,,,{},{'GEM': {'G100000925454'}}
+Sao Pedro Wind Farm,Wind,Onshore,PP,Portugal,2.0,,2015.0,,,40.9949,-8.0911,,,,,{},{'GEM': {'G100000925455'}}
+Sao Teotonico Solar Farm,Solar,PV,PP,Portugal,6.8,,2022.0,,,37.5986,-8.6373,,,,,{},{'GEM': {'G100000827324'}}
+Senhora Do Socorro Wind Farm,Wind,Onshore,PP,Portugal,2.0,,2008.0,,,39.0207,-9.2074,,,,,{},{'GEM': {'G100000925459'}}
+Serra Da Capucha Wind Farm,Wind,Onshore,PP,Portugal,2.0,,2022.0,,,39.0601,-9.2601,,,,,{},{'GEM': {'G100000925468'}}
+Serra De Todo Mundo Wind Farm,Wind,Onshore,PP,Portugal,2.0,,2016.0,,,39.2926,-9.0279,,,,,{},{'GEM': {'G100000925470'}}
+Serra Do Barroso Wind Farm,Wind,Onshore,PP,Portugal,8.0,,2011.0,,,41.6781,-7.9999,,,,,{},"{'GEM': {'G100000925471', 'G100000925472'}}"
+Serra Do Mu Wind Farm,Wind,Onshore,PP,Portugal,4.4,,2011.0,,,37.3759,-8.0889,,,,,{},"{'GEM': {'G100000925474', 'G100000925475'}}"
+Setubal Mill,Natural Gas,CCGT,CHP,Portugal,80.0,,2009.0,,,40.686,-8.5894,,,,,{},{'GEM': {'G100000410465'}}
+Sincelo Wind Farm,Wind,Onshore,PP,Portugal,84.0,,2021.0,,,40.616200000000006,-7.20385,,,,,{},"{'GEM': {'G100000919338', 'G100001003769'}}"
+Sines Refinery,Oil,,CHP,Portugal,91.0,,2009.0,,,38.7565,-9.1754,,,,,{},{'GEM': {'G100001000186'}}
+Soure Solar Farm,Solar,PV,PP,Portugal,23.0,,2024.0,,,40.0596,-8.6095,,,,,{},{'GEM': {'G100001004276'}}
+Tendeiros Solar Farm,Solar,PV,PP,Portugal,24.0,,2023.0,,,39.4302,-7.5828,,,,,{},{'GEM': {'G100000827333'}}
+Terceira,Oil,CCGT,CHP,Portugal,62.0,,,,,38.7154,-27.0699,,,,,{},{'GEM': {'G100001000183'}}
+Tocha Wind Farm,Wind,Onshore,PP,Portugal,41.0,,2012.0,,,40.3655,-8.6583,,,,,{},"{'GEM': {'G100000916879', 'G100000925481'}}"
+Torre Bela Solar Farm,Solar,PV,PP,Portugal,68.0,,2025.0,,,39.1936,-8.914,,,,,{},{'GEM': {'G100000827335'}}
+Triana Eurowind Solar Farm,Solar,PV,PP,Portugal,22.0,,2023.0,,,39.0746,-8.9776,,,,,{},{'GEM': {'G100000827336'}}
+Vale Do Gaio Solar,Solar,PV,PP,Portugal,19.0,,2022.0,,,38.246,-8.313,,,,,{},{'GEM': {'G100001010437'}}
+Vale Serrao Solar Farm,Solar,PV,PP,Portugal,2.4,,2023.0,,,40.0093,-7.958,,,,,{},{'GEM': {'G100001004245'}}
+Valhascos Solar,Solar,PV,PP,Portugal,17.5,,2020.0,,,38.214,-7.257,,,,,{},{'GEM': {'G100001010441'}}
+Valpacos Solar Farm,Solar,PV,PP,Portugal,30.0,,,,,41.6068,-7.3058,,,,,{},{'GEM': {'G100000827344'}}
+Ventominho Wind Farm,Wind,Onshore,PP,Portugal,51.0,,2008.0,,,42.0119,-8.3225,,,,,{},"{'GEM': {'G100000916852', 'G100000914319'}}"
+Ventominho Wind Farm,Wind,Onshore,PP,Portugal,66.0,,2007.0,,,42.0183,-8.2439,,,,,{},"{'GEM': {'G100000910910', 'G100000918830'}}"
+Ventominho Wind Farm,Wind,Onshore,PP,Portugal,52.0,,2008.0,,,42.0812,-8.2067,,,,,{},"{'GEM': {'G100000915211', 'G100000916666'}}"
+Ventominho Wind Farm,Wind,Onshore,PP,Portugal,52.0,,2007.0,,,42.0082,-8.4259,,,,,{},"{'GEM': {'G100000916023', 'G100000916022'}}"
+Ventominho Wind Farm,Wind,Onshore,PP,Portugal,38.0,,2008.0,,,41.98535,-8.562650000000001,,,,,{},"{'GEM': {'G100000916291', 'G100000910911'}}"
+Verdizela Solar,Solar,PV,PP,Portugal,8.8,,2014.0,,,38.597,-9.163,,,,,{},{'GEM': {'G100001010459'}}
+Viana Mill,Solid Biomass,,,Portugal,25.0,,2002.0,,,41.6998,-8.715,,,,,{},{'GEM': {'G100001053621'}}
+Viana Mill,Natural Gas,CCGT,CHP,Portugal,71.0,,2008.0,,,41.6998,-8.715,,,,,{},"{'GEM': {'G100000410464', 'G100000410463'}}"
+Vigia Wind Farm,Wind,Onshore,PP,Portugal,29.0,,2018.0,,,40.6276,-7.9611,,,,,{},{'GEM': {'G100000916325'}}
+Vilarchao Wind Farm,Wind,Onshore,PP,Portugal,3.6,,2005.0,,,41.5516,-8.4191,,,,,{},"{'GEM': {'G100000925486', 'G100000925487'}}"
+Vitoria,Oil,CCGT,,Portugal,172.5,,1980.0,,,32.648,-16.9676,,,,,{},"{'GEM': {'G100001000187', 'G100001000188'}}"
+Vitoria,Solid Biomass,,,Portugal,4.2,,2011.0,,,32.648,-16.9676,,,,,{},{'GEM': {'G100000200973'}}
+Windfloat Atlantic Offshore Wind Farm,Wind,Offshore,PP,Portugal,25.0,,2020.0,,,41.651,-9.306,,,,,{},{'GEM': {'G100000915864'}}
+Alco,Battery,Li,Store,Portugal,5.0,,,,,37.47,-7.47,,,,20.0,{},{'EESI': {'EESI-63258'}}
+Alqueva,Battery,Li,Store,Portugal,1.0,,,,,38.21,-7.54,,,,2.0,{},{'EESI': {'EESI-62583'}}
+Distribut,Battery,Li,Store,Portugal,0.6,,,,,39.3999,-8.2245,,,,0.3,{},{'EESI': {'EESI-64702'}}
+Flores Powerstore,Mechanical Storage,,Store,Portugal,0.5,,,,,41.1456,-8.6153,,,,,{},{'EESI': {'EESI-64563'}}
+Graciosa Powerstore,Mechanical Storage,,Store,Portugal,0.5,,,,,39.0833,-28.0333,,,,,{},{'EESI': {'EESI-61598'}}
+Graciosa Solar Wind Plus,Battery,Li,Store,Portugal,4.0,,,,,39.07,-27.99,,,,3.2,{},{'EESI': {'EESI-64104'}}
+Graciosa Younicos Recharge,Battery,Li,Store,Portugal,6.0,,,,,39.05,-28.03,,,,3.18,{},{'EESI': {'EESI-62005'}}
+Madeira Es,Battery,Li,Store,Portugal,22.5,,,,,32.75,-16.94,,,,15.6,{},{'EESI': {'EESI-60955'}}
+Ribatejo Natural Gas Flexnconfu,Hydrogen Storage,,Store,Portugal,1.0,,,,,39.4833,-8.9833,,,,,{},{'EESI': {'EESI-65135'}}
+Terceira Battery Island,Battery,Li,Store,Portugal,15.0,,,,,38.6667,-27.2167,,,,15.0,{},{'EESI': {'EESI-60777'}}
