@@ -1,0 +1,19 @@
+{
+  "scenario": "75% Renewable Potential - Zero Emission",
+  "optimization_status": "Unknown",
+  "total_cost_eur": 4341110446291.953,
+  "network_stats": {
+    "buses": 18,
+    "generators": 105,
+    "storage_units": 108
+  },
+  "generation_by_carrier_twh": {
+    "Natural Gas": 0.0,
+    "Hydro": 11.603896151917017,
+    "Solar PV": 16.0450795210304,
+    "Wind Onshore": 5.184549340733183,
+    "Wind Offshore": 16.314201720038742,
+    "Load Shedding": 4.316925836082402
+  },
+  "load_shedding_twh": 4.316925836082402
+}
