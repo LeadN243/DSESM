@@ -1,0 +1,25 @@
+sensitivity_key,re_potential_pct,carrier,generation_twh
+re_potential_25pct,25,Hydro,28.169979389999998
+re_potential_25pct,25,Natural Gas,0.0
+re_potential_25pct,25,Oil,0.0
+re_potential_25pct,25,Solar PV,25.64449842642751
+re_potential_25pct,25,Wind Offshore,0.012937791343721607
+re_potential_25pct,25,Wind Onshore,1.7825304610420587
+re_potential_50pct,50,Hydro,28.169979389999998
+re_potential_50pct,50,Natural Gas,0.0
+re_potential_50pct,50,Oil,0.0
+re_potential_50pct,50,Solar PV,26.088218286577366
+re_potential_50pct,50,Wind Offshore,0.025312754185678268
+re_potential_50pct,50,Wind Onshore,1.2954425388163544
+re_potential_75pct,75,Hydro,28.169979389999998
+re_potential_75pct,75,Natural Gas,0.0
+re_potential_75pct,75,Oil,0.0
+re_potential_75pct,75,Solar PV,26.35660313295882
+re_potential_75pct,75,Wind Offshore,0.03786565109866701
+re_potential_75pct,75,Wind Onshore,1.0105514672549663
+re_potential_100pct,100,Hydro,28.169979389999998
+re_potential_100pct,100,Natural Gas,0.0
+re_potential_100pct,100,Oil,0.0
+re_potential_100pct,100,Solar PV,26.34371668060101
+re_potential_100pct,100,Wind Offshore,0.05049542826653023
+re_potential_100pct,100,Wind Onshore,1.008171337506804

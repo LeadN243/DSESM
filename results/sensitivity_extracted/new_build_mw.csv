@@ -1,0 +1,13 @@
+sensitivity_key,re_potential_pct,carrier,new_build_mw
+re_potential_25pct,25,Solar PV,18072.72980037917
+re_potential_25pct,25,Wind Offshore,7.185333364209166
+re_potential_25pct,25,Wind Onshore,2803.7739402833863
+re_potential_50pct,50,Solar PV,18236.253628685183
+re_potential_50pct,50,Wind Offshore,14.370666728418332
+re_potential_50pct,50,Wind Onshore,2074.440584577956
+re_potential_75pct,75,Solar PV,18770.669686623492
+re_potential_75pct,75,Wind Offshore,21.5560000926275
+re_potential_75pct,75,Wind Onshore,1722.9305793468745
+re_potential_100pct,100,Solar PV,18750.899590792826
+re_potential_100pct,100,Wind Offshore,28.741333456836664
+re_potential_100pct,100,Wind Onshore,1719.3048543554435

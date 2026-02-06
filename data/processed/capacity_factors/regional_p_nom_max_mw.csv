@@ -1,0 +1,16 @@
+region,tech,p_nom_max_mw
+C,solar_pv,17587.88060653367
+C,wind_offshore,10.411599488547992
+C,wind_onshore,4148.881169155912
+E,solar_pv,34760.13708606431
+E,wind_offshore,0.0
+E,wind_onshore,9382.353011977526
+N,solar_pv,22132.486036476403
+N,wind_offshore,18.32973396828867
+N,wind_onshore,6083.248171970921
+S,solar_pv,22902.877398551507
+S,wind_offshore,217.8243430740734
+S,wind_onshore,5306.428943470066
+W,solar_pv,11846.249381427158
+W,wind_offshore,108.90027774491975
+W,wind_onshore,2183.3006198261187
